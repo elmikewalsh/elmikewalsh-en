@@ -10,9 +10,9 @@
     },
     "items": [
         {
-            "id": "https://en.elmikewalsh.com/ode-to-whiskey.html",
-            "url": "https://en.elmikewalsh.com/ode-to-whiskey.html",
-            "title": "Ode to Whiskey",
+            "id": "https://en.elmikewalsh.com/ode-to-whisky.html",
+            "url": "https://en.elmikewalsh.com/ode-to-whisky.html",
+            "title": "Ode to Whisky",
             "summary": "Soem reflexions on that magical liquid called whiskey Too much of anything is bad, but too much good whiskey is barely enough. - Mark Twain I like my whisky old and my women young. - Errol Flynn Whisky is liquid sunshine. - George Bernard Shaw Always&hellip;",
             "content_html": "<p>Soem reflexions on that magical liquid called whiskey</p>\n<blockquote>\n<p>Too much of anything is bad, but too much good whiskey is barely enough. - Mark Twain</p>\n</blockquote>\n<blockquote>\n<p>I like my whisky old and my women young. - Errol Flynn</p>\n</blockquote>\n<blockquote>\n<p>Whisky is liquid sunshine. - George Bernard Shaw</p>\n</blockquote>\n<blockquote>\n<p>Always carry a flagon of whiskey in case of snakebite and furthermore always carry a small snake. - W. C. Fields</p>\n</blockquote>\n<blockquote>\n<p>My God, so much I like to drink Scotch that sometimes I think my name is Igor Stra-whiskey! - Igor Stravinsky</p>\n</blockquote>",
             "image": "https://en.elmikewalsh.com/media/posts/20/whiskey2.jpg",
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2019-09-07T17:58:42-04:00",
-            "date_modified": "2019-09-07T18:01:37-04:00"
+            "date_modified": "2019-12-29T17:45:40-03:00"
         },
         {
             "id": "https://en.elmikewalsh.com/tiny-technical-stuff.html",
