@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://en.elmikewalsh.com/sitemap.xml
