@@ -1,3 +1,5 @@
+
+
 // Sticky menu
 var new_scroll_position = 0;
 var last_scroll_position;
@@ -31,6 +33,7 @@ window.addEventListener('scroll', function (e) {
 
 	new_scroll_position = last_scroll_position;
 });
+
 
 // Dropdown menu
 (function (menuConfig) {
