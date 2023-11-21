@@ -35,6 +35,9 @@
 <loc>https://en.elmikewalsh.com/blog/humor/</loc>
 </url>
 <url>
+<loc>https://en.elmikewalsh.com/blog/observations/</loc>
+</url>
+<url>
 <loc>https://en.elmikewalsh.com/blog/politics/</loc>
 </url>
 <url>
@@ -82,7 +85,7 @@
 </url>
 <url>
 <loc>https://en.elmikewalsh.com/not-my-faultapp-default/</loc>
-<lastmod>2023-11-17T16:49:30-04:00</lastmod>
+<lastmod>2023-11-21T08:17:26-04:00</lastmod>
 <image:image>
 <image:loc>https://en.elmikewalsh.com/media/posts/23/app-defaults.webp</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -129,6 +132,14 @@
 <lastmod>2023-11-03T07:59:43-04:00</lastmod>
 <image:image>
 <image:loc>https://en.elmikewalsh.com/media/posts/10/bw-resume.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://en.elmikewalsh.com/privacy-a-primer/</loc>
+<lastmod>2023-11-21T08:28:53-04:00</lastmod>
+<image:image>
+<image:loc>https://en.elmikewalsh.com/media/posts/24/privacy.webp</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
