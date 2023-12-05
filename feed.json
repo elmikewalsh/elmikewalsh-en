@@ -14,13 +14,14 @@
             "url": "https://en.elmikewalsh.com/archives/",
             "title": "Archives",
             "content_html": "<h3 class=\"align-right\">2023</h3>\n<p>[posts tags=\"2023\" count=\"40\"]</p>\n<h3 class=\"align-right\">2019</h3>\n<p>[posts tags=\"2019\" count=\"40\"]</p>\n<h3 class=\"align-right\">2017</h3>\n<p>[posts tags=\"2017\" count=\"40\"]</p>\n<h3 class=\"align-right\">2016</h3>\n<p>[posts tags=\"2016\" count=\"40\"]</p>",
+            "image": "https://en.elmikewalsh.com/media/posts/27/bw-journal-2xl-2xl.webp",
             "author": {
                 "name": "elmikewalsh"
             },
             "tags": [
             ],
             "date_published": "2023-12-04T08:13:27-04:00",
-            "date_modified": "2023-12-05T09:38:06-04:00"
+            "date_modified": "2023-12-05T10:04:59-04:00"
         },
         {
             "id": "https://en.elmikewalsh.com/defending-your-cybercastle-digital-art-of-war/",

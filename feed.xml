@@ -3,7 +3,7 @@
     <title>2023-EN-elmikewalsh</title>
     <link href="https://en.elmikewalsh.com/feed.xml" rel="self" />
     <link href="https://en.elmikewalsh.com" />
-    <updated>2023-12-05T09:38:06-04:00</updated>
+    <updated>2023-12-05T10:04:59-04:00</updated>
     <author>
         <name>elmikewalsh</name>
     </author>
@@ -16,11 +16,13 @@
         </author>
         <link href="https://en.elmikewalsh.com/archives/"/>
         <id>https://en.elmikewalsh.com/archives/</id>
+        <media:content url="https://en.elmikewalsh.com/media/posts/27/bw-journal-2xl-2xl.webp" medium="image" />
 
-        <updated>2023-12-05T09:38:06-04:00</updated>
+        <updated>2023-12-05T10:04:59-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://en.elmikewalsh.com/media/posts/27/bw-journal-2xl-2xl.webp" class="type:primaryImage" alt="" /></p>
                 <h3 class="align-right">2023</h3>
 <p>[posts tags="2023" count="40"]</p>
 <h3 class="align-right">2019</h3>
