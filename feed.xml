@@ -3,7 +3,7 @@
     <title>2023-EN-elmikewalsh</title>
     <link href="https://en.elmikewalsh.com/feed.xml" rel="self" />
     <link href="https://en.elmikewalsh.com" />
-    <updated>2023-12-05T10:04:59-04:00</updated>
+    <updated>2023-12-06T09:00:31-04:00</updated>
     <author>
         <name>elmikewalsh</name>
     </author>
@@ -154,7 +154,7 @@
             <category term="All Articles"/>
             <category term="2023"/>
 
-        <updated>2023-12-04T16:30:12-04:00</updated>
+        <updated>2023-12-06T09:00:31-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -169,7 +169,7 @@
 <li><strong>Photo Management:</strong> Apple Photos</li>
 <li><strong>Calendar:</strong> Apple Calendar</li>
 <li><strong>Cloud File Storage:</strong> iCloud &amp; OneDrive</li>
-<li><strong>RSS:</strong> Sadly, don’t do it.</li>
+<li><strong>RSS:</strong> <a href="https://netnewswire.com" target="_blank" rel="noopener noreferrer">NetNewsWire</a></li>
 <li><strong>Contacts:</strong> Apple Contacts</li>
 <li><strong>Browser:</strong> Safari for home/work; Firefox for work</li>
 <li><strong>Chat:</strong> WhatsApp (unfortunately), Apple Messages</li>
