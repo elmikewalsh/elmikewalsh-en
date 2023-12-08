@@ -3,7 +3,7 @@
     <title>2023-EN-elmikewalsh</title>
     <link href="https://en.elmikewalsh.com/feed.xml" rel="self" />
     <link href="https://en.elmikewalsh.com" />
-    <updated>2023-12-06T09:00:31-04:00</updated>
+    <updated>2023-12-08T08:22:48-04:00</updated>
     <author>
         <name>elmikewalsh</name>
     </author>
@@ -154,7 +154,7 @@
             <category term="All Articles"/>
             <category term="2023"/>
 
-        <updated>2023-12-06T09:00:31-04:00</updated>
+        <updated>2023-12-08T08:22:48-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -178,8 +178,9 @@
 <li><strong>Spreadsheets:</strong> Excel, Numbers</li>
 <li><strong>Presentations:</strong> No, no, no, no</li>
 <li><strong>News:</strong> Try to avoid, but in-browser</li>
-<li><strong>Music:</strong> I really tried, Apple Music, but just didn’t work.</li>
+<li><strong>Music:</strong> <a href="https://www.spotify.com/" target="_blank" rel="noopener noreferrer">Spotify</a> (I really tried, Apple Music, but just didn’t work)</li>
 <li><strong>Password Management:</strong> BitWarden</li>
+<li><strong>Blog / Website:</strong> <a href="https://getpublii.com" target="_blank" rel="noopener noreferrer">Publii</a></li>
 <li><strong>Code Editor:</strong> Sublime Text</li>
 </ul>
 <hr>
