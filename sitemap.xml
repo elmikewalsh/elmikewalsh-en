@@ -37,6 +37,9 @@
 </image:image>
 </url>
 <url>
+<loc>https://www.elmike.me/articles/how-to/</loc>
+</url>
+<url>
 <loc>https://www.elmike.me/articles/humor/</loc>
 </url>
 <url>
@@ -120,6 +123,14 @@
 <lastmod>2024-02-02T10:16:41-03:00</lastmod>
 <image:image>
 <image:loc>https://www.elmike.me/media/posts/4/new-bio-pic-2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.elmike.me/i-lost-my-password-can-i-have-yours/</loc>
+<lastmod>2024-02-05T12:07:44-03:00</lastmod>
+<image:image>
+<image:loc>https://www.elmike.me/media/posts/35/lost-my-password.webp</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>

@@ -10,6 +10,24 @@
     },
     "items": [
         {
+            "id": "https://www.elmike.me/i-lost-my-password-can-i-have-yours/",
+            "url": "https://www.elmike.me/i-lost-my-password-can-i-have-yours/",
+            "title": "I Lost My Password, Can I Have Yours?",
+            "content_html": "<p>It’s 2024 - if you are still using a basic password like <em>password1234</em> (shame on you) or using the same password for all your online accounts, you are just begging for a world of digital (and real-life) hurt.</p>\n<p>It can be a bit intimidating for people to start using a password manager, but put simply: would you prefer to take a bit of time now to set up a small program you can use for free and anywhere, so your passwords are safe, or are you the type that prefers to call banks in a rush to cancel cards, send support emails to companies explaining you were hacked while waiting impatiently for a reply?  If you are the first group - read on!</p>\n<hr>\n<h3>Choose a free password manager</h3>\n<p>First you need to choose one. There are all sorts of free and paid options, but there are two options that are more than enough for your needs, and both are free:</p>\n<ul>\n<li><a href=\"https://bitwarden.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Bitwarden</a></li>\n<li><a href=\"https://proton.me/pass\" target=\"_blank\" rel=\"noopener noreferrer\">Proton Pass</a></li>\n</ul>\n<p>The choice is yours - I had access to Bitwarden first so mainly use that. The design is a bit dated. Proton Pass, on the other hand, is much nicer to look at, but not as mature a product as Bitwarden. Anyways, choose one and install. Then, the next step is the most important:</p>\n<h3><span style=\"color: #000000;\">Create a strong master password</span></h3>\n<p>A good password manager will require you set up a master password, to access the password manager. A good password manager will also NOT store your master password. As a result, should you lose or forget it, you will not be able to retrieve it or request the company send it to you. You also will not be able to generate a new one. So THIS password is one that will have to be a good one and also one that you can remember. (This is the step that will burn you later on if you don’t think about it for just a bit).</p>\n<h3>Import existing passwords</h3>\n<p>If you have passwords saved in your browser, many free password managers allow you to import them. This is a good idea and will save time. Go for it!</p>\n<h3><span style=\"color: #000000;\">Automatically store new passwords</span></h3>\n<p>Let the password manager automatically store new passwords when you log in. </p>\n<h3>Create New Passwords</h3>\n<p>Use the Password Manager to manually generate new passwords and also check if your password is found in a data breach. Some password managers, like Bitwarden, will let you easily set a password length (40, 50, even 100 characters). These will be passwords that you are likely unable to ever memorize. However, it isn’t necessary - as long as you remember the master password you set up in step #2, you’ll have access to it.  It also doesn’t matter what browser you use, as there is an extension that you can install and use on your computer, phone, etc.</p>\n<p>Quick easy steps. In 2024 there is no excuse for using a poor password. You can take a small amount of time now to peacefully set up a password manager…. or a lot more (and stressful) time later on.</p>\n<p>Good luck!</p>\n<p><strong>Photo Used:</strong> <a href=\"https://pixabay.com/illustrations/security-professional-secret-5199236/\" target=\"_blank\" rel=\"noopener noreferrer\">https://pixabay.com/illustrations/security-professional-secret-5199236/</a></p>",
+            "image": "https://www.elmike.me/media/posts/35/lost-my-password.webp",
+            "author": {
+                "name": "elmikewalsh"
+            },
+            "tags": [
+                   "Technology",
+                   "How To...",
+                   "All Articles",
+                   "2024"
+            ],
+            "date_published": "2024-02-05T12:05:16-03:00",
+            "date_modified": "2024-02-05T12:07:44-03:00"
+        },
+        {
             "id": "https://www.elmike.me/the-naming-game/",
             "url": "https://www.elmike.me/the-naming-game/",
             "title": "The Naming Game",
@@ -166,23 +184,6 @@
             ],
             "date_published": "2023-11-17T17:44:29-03:00",
             "date_modified": "2023-12-22T07:43:40-03:00"
-        },
-        {
-            "id": "https://www.elmike.me/ode-to-whisky/",
-            "url": "https://www.elmike.me/ode-to-whisky/",
-            "title": "Ode to Whisky",
-            "content_html": "<p>Some reflexions on that magical liquid called whiskey</p>\n<blockquote>\n<p>Too much of anything is bad, but too much good whiskey is barely enough. - Mark Twain</p>\n</blockquote>\n<blockquote>\n<p>I like my whisky old and my women young. - Errol Flynn</p>\n</blockquote>\n<blockquote>\n<p>Whisky is liquid sunshine. - George Bernard Shaw</p>\n</blockquote>\n<blockquote>\n<p>Always carry a flagon of whiskey in case of snakebite and furthermore always carry a small snake. - W. C. Fields</p>\n</blockquote>\n<blockquote>\n<p>My God, so much I like to drink Scotch that sometimes I think my name is Igor Stra-whiskey! - Igor Stravinsky</p>\n</blockquote>",
-            "image": "https://www.elmike.me/media/posts/20/whiskey2.jpg",
-            "author": {
-                "name": "elmikewalsh"
-            },
-            "tags": [
-                   "Humor",
-                   "All Articles",
-                   "2019"
-            ],
-            "date_published": "2019-09-07T17:58:42-04:00",
-            "date_modified": "2023-12-04T17:32:34-03:00"
         }
     ]
 }
