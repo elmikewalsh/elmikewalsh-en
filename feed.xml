@@ -3,19 +3,19 @@
     <title>I Write Stuff</title>
     <link href="https://www.elmike.me/feed.xml" rel="self" />
     <link href="https://www.elmike.me" />
-    <updated>2024-02-12T08:45:15-03:00</updated>
+    <updated>2024-02-19T08:53:25-03:00</updated>
     <author>
         <name>elmikewalsh</name>
     </author>
     <id>https://www.elmike.me</id>
 
     <entry>
-        <title>I Lost My Password, Can I Have Yours?</title>
+        <title>The Art of a Good Password</title>
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmike.me/i-lost-my-password-can-i-have-yours/"/>
-        <id>https://www.elmike.me/i-lost-my-password-can-i-have-yours/</id>
+        <link href="https://www.elmike.me/the-art-of-a-good-password/"/>
+        <id>https://www.elmike.me/the-art-of-a-good-password/</id>
         <media:content url="https://www.elmike.me/media/posts/35/lost-my-password.webp" medium="image" />
             <category term="Technology"/>
             <category term="How To..."/>
@@ -69,7 +69,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://www.elmike.me/media/posts/34/naming-game-2.webp" class="type:primaryImage" alt="" /></p>
-                <p>Personal branding on the internet can be rather complicated. Especially when you add the factor of a multilanguage website.  Domain name availability, the ability to pronounce / spell a name are all factors.</p>
+                <p>Presenting yourself on the internet can be rather complicated. Especially when you add the factor of a multilanguage website.  Domain name availability, the ability to pronounce / spell a name are all factors.</p>
 <p>Recently I’ve put what I believe to be the final touches (for now, at least) on my personal website setup.  Originally, I went with one domain name and a subdomain for English speakers. It looked something like this:</p>
 <ul>
 <li>elmikewalsh.com</li>
@@ -83,7 +83,10 @@
 <li><strong>El: </strong>No problems in Spanish land with this one.</li>
 </ul>
 <hr>
-<p>So, having to spell out m-i-k-e-w-a-l-s-h to share my domain name or email address sucks.  Especially by phone. (Good test for personal branding btw - if you can say it in a phone conversation and the other person can note it, you’re doing well.</p>
+<p>So, having to spell out m-i-k-e-w-a-l-s-h to share my domain name or email address sucks.  Especially by phone.</p>
+<blockquote>
+<p>Good test for choosing your name/email/whatever btw - if you can say it in a phone conversation and the other person can note it, you’re doing well.</p>
+</blockquote>
 <p><strong>Here’s how I got around it:</strong></p>
 <ol>
 <li>I have two separate domain names  - it’s as short as possible and only the extensions are different.</li>
