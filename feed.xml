@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>I Write Stuff</title>
-    <link href="https://www.elmike.me/feed.xml" rel="self" />
-    <link href="https://www.elmike.me" />
+    <link href="https://www.elmikewalsh.com/feed.xml" rel="self" />
+    <link href="https://www.elmikewalsh.com" />
     <updated>2024-06-06T17:24:21-04:00</updated>
     <author>
         <name>elmikewalsh</name>
     </author>
-    <id>https://www.elmike.me</id>
+    <id>https://www.elmikewalsh.com</id>
 
     <entry>
         <title>$200,000 Building Homes With GPT Hammer</title>
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmike.me/200000-building-homes-with-gpt-hammer/"/>
-        <id>https://www.elmike.me/200000-building-homes-with-gpt-hammer/</id>
-        <media:content url="https://www.elmike.me/media/posts/36/gpt-hammer.webp" medium="image" />
+        <link href="https://www.elmikewalsh.com/200000-building-homes-with-gpt-hammer/"/>
+        <id>https://www.elmikewalsh.com/200000-building-homes-with-gpt-hammer/</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/36/gpt-hammer.webp" medium="image" />
             <category term="Life &amp; Stuff"/>
             <category term="Humor"/>
             <category term="All Articles"/>
@@ -26,7 +26,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmike.me/media/posts/36/gpt-hammer.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.com/media/posts/36/gpt-hammer.webp" class="type:primaryImage" alt="" /></p>
                 <div class="post__toc">
 <h3>Table of Contents</h3>
 <ul>
@@ -66,9 +66,9 @@
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmike.me/the-art-of-a-good-password/"/>
-        <id>https://www.elmike.me/the-art-of-a-good-password/</id>
-        <media:content url="https://www.elmike.me/media/posts/35/lost-my-password.webp" medium="image" />
+        <link href="https://www.elmikewalsh.com/the-art-of-a-good-password/"/>
+        <id>https://www.elmikewalsh.com/the-art-of-a-good-password/</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/35/lost-my-password.webp" medium="image" />
             <category term="Technology"/>
             <category term="How To..."/>
             <category term="All Articles"/>
@@ -78,7 +78,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmike.me/media/posts/35/lost-my-password.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.com/media/posts/35/lost-my-password.webp" class="type:primaryImage" alt="" /></p>
                 <div class="post__toc">
 <h3>Table of Contents</h3>
 <ul>
@@ -118,9 +118,9 @@
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmike.me/the-naming-game/"/>
-        <id>https://www.elmike.me/the-naming-game/</id>
-        <media:content url="https://www.elmike.me/media/posts/34/naming-game-2.webp" medium="image" />
+        <link href="https://www.elmikewalsh.com/the-naming-game/"/>
+        <id>https://www.elmikewalsh.com/the-naming-game/</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/34/naming-game-2.webp" medium="image" />
             <category term="Technology"/>
             <category term="Life &amp; Stuff"/>
             <category term="All Articles"/>
@@ -130,7 +130,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmike.me/media/posts/34/naming-game-2.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.com/media/posts/34/naming-game-2.webp" class="type:primaryImage" alt="" /></p>
                 <p>Presenting yourself on the internet can be rather complicated. Especially when you add the factor of a multilanguage website.  Domain name availability, the ability to pronounce / spell a name are all factors.</p>
 <p>Recently I’ve put what I believe to be the final touches (for now, at least) on my personal website setup.  Originally, I went with one domain name and a subdomain for English speakers. It looked something like this:</p>
 <ul>
@@ -169,9 +169,9 @@
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmike.me/enough/"/>
-        <id>https://www.elmike.me/enough/</id>
-        <media:content url="https://www.elmike.me/media/posts/33/enough-2.webp" medium="image" />
+        <link href="https://www.elmikewalsh.com/enough/"/>
+        <id>https://www.elmikewalsh.com/enough/</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/33/enough-2.webp" medium="image" />
             <category term="Life &amp; Stuff"/>
             <category term="All Articles"/>
             <category term="2024"/>
@@ -180,7 +180,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmike.me/media/posts/33/enough-2.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.com/media/posts/33/enough-2.webp" class="type:primaryImage" alt="" /></p>
                 <p>Quentin Tarantino recently remarked that he plans to make 10 movies, and that’s it. (note: in context, he did indicate that he would be fine doing something later on despite having done 10 movies, so it’s not a set-in-stone number). Mentioned wanting to go out at the top of his game.  Similar to some, but not all, athletes.  The same applies to everything; our “mere mortal” projects. Our jobs. Our ambitions. Our desire to make more, have more, obtain more, visit more, watch more, see more.</p>
 <p><strong>At what point is it enough?</strong></p>
 <p>Enough means the necessary to meet a need or desire. So once you reach that point, everything beyond that is extra. Unnecessary. Wasteful, even.</p>
@@ -197,9 +197,9 @@
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmike.me/simply-seasonal/"/>
-        <id>https://www.elmike.me/simply-seasonal/</id>
-        <media:content url="https://www.elmike.me/media/posts/32/our-tree.jpg" medium="image" />
+        <link href="https://www.elmikewalsh.com/simply-seasonal/"/>
+        <id>https://www.elmikewalsh.com/simply-seasonal/</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/32/our-tree.jpg" medium="image" />
             <category term="Life &amp; Stuff"/>
             <category term="All Articles"/>
             <category term="2023"/>
@@ -208,7 +208,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmike.me/media/posts/32/our-tree.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.com/media/posts/32/our-tree.jpg" class="type:primaryImage" alt="" /></p>
                 <p>According to the Gregorian calendar, another year (2023) is coming to a close. That time of year where many people across the world enter the yearly commercialist furor and shop, shop, shop, eat, eat, eat and drink, drink, drink.</p>
 <ul>
 <li>Let’s get XYZ gifts for XYZ people. Person X is surely going to give us a gift, so we have to have one to gift back to Person X.</li>
@@ -229,9 +229,9 @@
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmike.me/4-ways-to-fuck-up-a-simple-yesno-question/"/>
-        <id>https://www.elmike.me/4-ways-to-fuck-up-a-simple-yesno-question/</id>
-        <media:content url="https://www.elmike.me/media/posts/30/4-ways-to.webp" medium="image" />
+        <link href="https://www.elmikewalsh.com/4-ways-to-fuck-up-a-simple-yesno-question/"/>
+        <id>https://www.elmikewalsh.com/4-ways-to-fuck-up-a-simple-yesno-question/</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/30/4-ways-to.webp" medium="image" />
             <category term="Politics"/>
             <category term="Life &amp; Stuff"/>
             <category term="Humor"/>
@@ -242,7 +242,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmike.me/media/posts/30/4-ways-to.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.com/media/posts/30/4-ways-to.webp" class="type:primaryImage" alt="" /></p>
                 <p>On Sunday, December 17, Chile will (again) go to the polls to vote on the new constitution proposal. In very very general political terms, while the first proposal a couple years back was seen as “leftist”, the new one has been prepared by a predominantly right-wing group. It is a simple vote: Do you approve of the new constitution?  Yes or No. Simple question. How hard could it be?</p>
 <p>It’s pretty easy to fuck it up, if you think about it (which, unfortunately, I have). So, here are 4 ways to fuck up a simple yes/no question:</p>
 <ol>
@@ -261,9 +261,9 @@
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmike.me/everything-is-for-sale-dignity-not-included/"/>
-        <id>https://www.elmike.me/everything-is-for-sale-dignity-not-included/</id>
-        <media:content url="https://www.elmike.me/media/posts/28/bw-everything-is-for-sale.webp" medium="image" />
+        <link href="https://www.elmikewalsh.com/everything-is-for-sale-dignity-not-included/"/>
+        <id>https://www.elmikewalsh.com/everything-is-for-sale-dignity-not-included/</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/28/bw-everything-is-for-sale.webp" medium="image" />
             <category term="Life &amp; Stuff"/>
             <category term="All Articles"/>
             <category term="2023"/>
@@ -272,7 +272,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmike.me/media/posts/28/bw-everything-is-for-sale.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.com/media/posts/28/bw-everything-is-for-sale.webp" class="type:primaryImage" alt="" /></p>
                 <p>I remember a past time, a golden time, when this interconnected space called the internet was a different place. It was a place to show who you were, unashamedly. GeoCities and MySpace existed (don’t miss them), Google did not. It was a place to build spaces and pages with primary colors, and behold the hideous ugliness that resulted and say, “I. Made. That.”  And it was created, for no other reason than to make something and maybe – just maybe – someone else would find it.</p>
 <h3>That was then, this is now:</h3>
 <p>The internet has largely transformed itself into the digital equivalent of a mall, where everyone wants to sell you something, or get you to subscribe to the latest trend.  All in all, it’s all the same as the next website, except “it’s our special take on it; subscribe to / buy our XYZ, not the other one”. Every website seems to have a pop-up window, and some try to block what you are looking for. Others are so full of advertisements and banners that you have to search to find what you were really looking for.</p>
@@ -290,9 +290,9 @@
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmike.me/defending-your-cybercastle-digital-art-of-war/"/>
-        <id>https://www.elmike.me/defending-your-cybercastle-digital-art-of-war/</id>
-        <media:content url="https://www.elmike.me/media/posts/25/art-of-war-series.webp" medium="image" />
+        <link href="https://www.elmikewalsh.com/defending-your-cybercastle-digital-art-of-war/"/>
+        <id>https://www.elmikewalsh.com/defending-your-cybercastle-digital-art-of-war/</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/25/art-of-war-series.webp" medium="image" />
             <category term="Life &amp; Stuff"/>
             <category term="Digital Art of War"/>
             <category term="All Articles"/>
@@ -302,7 +302,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmike.me/media/posts/25/art-of-war-series.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.com/media/posts/25/art-of-war-series.webp" class="type:primaryImage" alt="" /></p>
                 <div class="post__toc">
 <h3>Table of Contents</h3>
 <ul>
@@ -331,9 +331,9 @@
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmike.me/over-the-mountains/"/>
-        <id>https://www.elmike.me/over-the-mountains/</id>
-        <media:content url="https://www.elmike.me/media/posts/26/photos-tag-image.webp" medium="image" />
+        <link href="https://www.elmikewalsh.com/over-the-mountains/"/>
+        <id>https://www.elmikewalsh.com/over-the-mountains/</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/26/photos-tag-image.webp" medium="image" />
             <category term="Photos"/>
             <category term="All Articles"/>
             <category term="2023"/>
@@ -342,20 +342,20 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmike.me/media/posts/26/photos-tag-image.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.com/media/posts/26/photos-tag-image.webp" class="type:primaryImage" alt="" /></p>
                 <p>Just a quick post to share a few photos from a trip across the mountains to a couple of towns in Argentina. Fun times (and chocolate) were had by all. :)</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://www.elmike.me/media/posts/26/gallery/IMG_0993.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmike.me/media/posts/26/gallery/IMG_0993-thumbnail.webp" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://www.elmike.me/media/posts/26/gallery/IMG_1154.webp" data-size="1125x2000"><img loading="lazy" src="https://www.elmike.me/media/posts/26/gallery/IMG_1154-thumbnail.webp" alt="" width="720" height="1280"></a></figure>
-<figure class="gallery__item"><a href="https://www.elmike.me/media/posts/26/gallery/IMG_1397.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmike.me/media/posts/26/gallery/IMG_1397-thumbnail.webp" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://www.elmike.me/media/posts/26/gallery/IMG_1404.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmike.me/media/posts/26/gallery/IMG_1404-thumbnail.webp" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://www.elmike.me/media/posts/26/gallery/IMG_1148.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmike.me/media/posts/26/gallery/IMG_1148-thumbnail.webp" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://www.elmike.me/media/posts/26/gallery/IMG_1399.webp" data-size="1125x2000"><img loading="lazy" src="https://www.elmike.me/media/posts/26/gallery/IMG_1399-thumbnail.webp" alt="" width="720" height="1280"></a></figure>
-<figure class="gallery__item"><a href="https://www.elmike.me/media/posts/26/gallery/IMG_1421.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmike.me/media/posts/26/gallery/IMG_1421-thumbnail.webp" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://www.elmike.me/media/posts/26/gallery/IMG_1406.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmike.me/media/posts/26/gallery/IMG_1406-thumbnail.webp" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://www.elmike.me/media/posts/26/gallery/IMG_1357.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmike.me/media/posts/26/gallery/IMG_1357-thumbnail.webp" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://www.elmike.me/media/posts/26/gallery/IMG_1371.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmike.me/media/posts/26/gallery/IMG_1371-thumbnail.webp" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://www.elmike.me/media/posts/26/gallery/IMG_1373.webp" data-size="1125x2000"><img loading="lazy" src="https://www.elmike.me/media/posts/26/gallery/IMG_1373-thumbnail.webp" alt="" width="720" height="1280"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.com/media/posts/26/gallery/IMG_0993.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/26/gallery/IMG_0993-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1154.webp" data-size="1125x2000"><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1154-thumbnail.webp" alt="" width="720" height="1280"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1397.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1397-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1404.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1404-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1148.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1148-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1399.webp" data-size="1125x2000"><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1399-thumbnail.webp" alt="" width="720" height="1280"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1421.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1421-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1406.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1406-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1357.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1357-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1371.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1371-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1373.webp" data-size="1125x2000"><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1373-thumbnail.webp" alt="" width="720" height="1280"></a></figure>
 </div></div>
 <p class="align-center"><em>San Martin de los Andes and Bariloche, Argentina.</em></p>
             ]]>
@@ -366,9 +366,9 @@
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmike.me/privacy-a-primer/"/>
-        <id>https://www.elmike.me/privacy-a-primer/</id>
-        <media:content url="https://www.elmike.me/media/posts/24/privacy.webp" medium="image" />
+        <link href="https://www.elmikewalsh.com/privacy-a-primer/"/>
+        <id>https://www.elmikewalsh.com/privacy-a-primer/</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/24/privacy.webp" medium="image" />
             <category term="Technology"/>
             <category term="Life &amp; Stuff"/>
             <category term="All Articles"/>
@@ -378,7 +378,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmike.me/media/posts/24/privacy.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.com/media/posts/24/privacy.webp" class="type:primaryImage" alt="" /></p>
                 <p>Privacy is a hot topic in 2023. A concern for some, a buzzword for others. Should I care? What can I do? Is it too late? Why bother?</p>
 <p>I’d love to say this is your one-stop shop for all the answers, but who am I but one set of hands typing? (Disclaimer: In 2023, this website uses ancient technology – I am a human writing this article from scratch; no Artificial Intelligence added).</p>
 <p><strong>But some musings on privacy, for what they may be worth:</strong></p>
