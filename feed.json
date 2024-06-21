@@ -25,13 +25,13 @@
                    "2024"
             ],
             "date_published": "2024-03-01T09:06:10-03:00",
-            "date_modified": "2024-06-13T18:47:32-04:00"
+            "date_modified": "2024-06-21T00:04:47-04:00"
         },
         {
             "id": "https://www.elmikewalsh.com/the-art-of-a-good-password/",
             "url": "https://www.elmikewalsh.com/the-art-of-a-good-password/",
             "title": "The Art of a Good Password",
-            "content_html": "<div class=\"post__toc\">\n<h3>Table of Contents</h3>\n<ul>\n<li><a href=\"#mcetoc_1hvnmsk5313\">Choose a free password manager</a></li>\n<li><a href=\"#mcetoc_1hvnmsk5314\">Create a strong master password</a></li>\n<li><a href=\"#mcetoc_1hvnmsk5315\">Import existing passwords</a></li>\n<li><a href=\"#mcetoc_1hvnmsk5316\">Automatically store new passwords</a></li>\n<li><a href=\"#mcetoc_1hvnmsk5317\">Create New Passwords</a></li>\n</ul>\n</div>\n<p>It’s 2024 - if you are still using a basic password like <em>password1234</em> (shame on you) or using the same password for all your online accounts, you are just begging for a world of digital (and real-life) hurt.</p>\n<p>It can be a bit intimidating for people to start using a password manager, but put simply: would you prefer to take a bit of time now to set up a small program you can use for free and anywhere, so your passwords are safe, or are you the type that prefers to call banks in a rush to cancel cards, send support emails to companies explaining you were hacked while waiting impatiently for a reply?  If you are the first group - read on!</p>\n<hr>\n<h3 id=\"mcetoc_1hvnmsk5313\">Choose a free password manager</h3>\n<p>First you need to choose one. There are all sorts of free and paid options, but there are two options that are more than enough for your needs, and both are free:</p>\n<ul>\n<li><a href=\"https://bitwarden.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Bitwarden</a></li>\n<li><a href=\"https://proton.me/pass\" target=\"_blank\" rel=\"noopener noreferrer\">Proton Pass</a></li>\n</ul>\n<p>The choice is yours - I had access to Bitwarden first so mainly use that. The design is a bit dated. Proton Pass, on the other hand, is much nicer to look at, but not as mature a product as Bitwarden. Anyways, choose one and install. Then, the next step is the most important:</p>\n<h3 id=\"mcetoc_1hvnmsk5314\"><span style=\"color: #000000;\">Create a strong master password</span></h3>\n<p>A good password manager will require you set up a master password, to access the password manager. A good password manager will also NOT store your master password. As a result, should you lose or forget it, you will not be able to retrieve it or request the company send it to you. You also will not be able to generate a new one. So THIS password is one that will have to be a good one and also one that you can remember. (This is the step that will burn you later on if you don’t think about it for just a bit).</p>\n<h3 id=\"mcetoc_1hvnmsk5315\">Import existing passwords</h3>\n<p>If you have passwords saved in your browser, many free password managers allow you to import them. This is a good idea and will save time. Go for it!</p>\n<h3 id=\"mcetoc_1hvnmsk5316\"><span style=\"color: #000000;\">Automatically store new passwords</span></h3>\n<p>Let the password manager automatically store new passwords when you log in. </p>\n<h3 id=\"mcetoc_1hvnmsk5317\">Create New Passwords</h3>\n<p>Use the Password Manager to manually generate new passwords and also check if your password is found in a data breach. Some password managers, like Bitwarden, will let you easily set a password length (40, 50, even 100 characters). These will be passwords that you are likely unable to ever memorize. However, it isn’t necessary - as long as you remember the master password you set up in step #2, you’ll have access to it.  It also doesn’t matter what browser you use, as there is an extension that you can install and use on your computer, phone, etc.</p>\n<p>Quick easy steps. In 2024 there is no excuse for using a poor password. You can take a small amount of time now to peacefully set up a password manager…. or a lot more (and stressful) time later on.</p>\n<p>Good luck!</p>\n<p><strong>Photo used:</strong> <a href=\"https://pixabay.com/illustrations/security-professional-secret-5199236/\" target=\"_blank\" rel=\"noopener noreferrer\">pixabay.com</a></p>",
+            "content_html": "<div class=\"post__toc\">\n<h3>Table of Contents</h3>\n<ul>\n<li><a href=\"#mcetoc_1hvnmsk5313\">Choose a free password manager</a></li>\n<li><a href=\"#mcetoc_1hvnmsk5314\">Create a strong master password</a></li>\n<li><a href=\"#mcetoc_1hvnmsk5315\">Import existing passwords</a></li>\n<li><a href=\"#mcetoc_1hvnmsk5316\">Automatically store new passwords</a></li>\n<li><a href=\"#mcetoc_1hvnmsk5317\">Create New Passwords</a></li>\n</ul>\n</div>\n<p>It’s 2024 - if you are still using a basic password like <em>password1234</em> (shame on you) or using the same password for all your online accounts, you are just begging for a world of digital (and real-life) hurt.</p>\n<p>It can be a bit intimidating for people to start using a password manager, but put simply: would you prefer to take a bit of time now to set up a small program you can use for free and anywhere, so your passwords are safe, or are you the type that prefers to call banks in a rush to cancel cards, send support emails to companies explaining you were hacked while waiting impatiently for a reply?  If you are the first group - read on!</p>\n<hr>\n<h3 id=\"mcetoc_1hvnmsk5313\">Choose a free password manager</h3>\n<p>First you need to choose one. There are all sorts of free and paid options, but there are two options that are more than enough for your needs, and both are free:</p>\n<ul>\n<li><a href=\"https://bitwarden.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Bitwarden</a></li>\n<li><a href=\"https://proton.me/pass\" target=\"_blank\" rel=\"noopener noreferrer\">Proton Pass</a></li>\n</ul>\n<p>The choice is yours - I had access to Bitwarden first so mainly use that. The design is a bit dated. Proton Pass, on the other hand, is much nicer to look at, but not as mature a product as Bitwarden. Anyways, choose one and install. Then, the next step is the most important:</p>\n<h3>Create a strong master password</h3>\n<p>A good password manager will require you set up a master password, to access the password manager. A good password manager will also NOT store your master password. As a result, should you lose or forget it, you will not be able to retrieve it or request the company send it to you. You also will not be able to generate a new one. So THIS password is one that will have to be a good one and also one that you can remember. (This is the step that will burn you later on if you don’t think about it for just a bit).</p>\n<h3 id=\"mcetoc_1hvnmsk5315\">Import existing passwords</h3>\n<p>If you have passwords saved in your browser, many free password managers allow you to import them. This is a good idea and will save time. Go for it!</p>\n<h3 id=\"mcetoc_1hvnmsk5316\">Automatically store new passwords</h3>\n<p>Let the password manager automatically store new passwords when you log in. </p>\n<h3 id=\"mcetoc_1hvnmsk5317\">Create New Passwords</h3>\n<p>Use the Password Manager to manually generate new passwords and also check if your password is found in a data breach. Some password managers, like Bitwarden, will let you easily set a password length (40, 50, even 100 characters). These will be passwords that you are likely unable to ever memorize. However, it isn’t necessary - as long as you remember the master password you set up in step #2, you’ll have access to it.  It also doesn’t matter what browser you use, as there is an extension that you can install and use on your computer, phone, etc.</p>\n<p>Quick easy steps. In 2024 there is no excuse for using a poor password. You can take a small amount of time now to peacefully set up a password manager…. or a lot more (and stressful) time later on.</p>\n<p>Good luck!</p>\n<p><strong>Photo used:</strong> <a href=\"https://pixabay.com/illustrations/security-professional-secret-5199236/\" target=\"_blank\" rel=\"noopener noreferrer\">pixabay.com</a></p>",
             "image": "https://www.elmikewalsh.com/media/posts/35/lost-my-password.webp",
             "author": {
                 "name": "elmikewalsh"
@@ -43,7 +43,7 @@
                    "2024"
             ],
             "date_published": "2024-02-05T12:05:16-03:00",
-            "date_modified": "2024-06-06T17:22:17-04:00"
+            "date_modified": "2024-06-21T00:26:13-04:00"
         },
         {
             "id": "https://www.elmikewalsh.com/the-naming-game/",
@@ -61,7 +61,7 @@
                    "2024"
             ],
             "date_published": "2024-01-30T18:53:00-03:00",
-            "date_modified": "2024-02-19T08:53:25-03:00"
+            "date_modified": "2024-06-21T00:28:32-04:00"
         },
         {
             "id": "https://www.elmikewalsh.com/enough/",
@@ -78,7 +78,7 @@
                    "2024"
             ],
             "date_published": "2024-01-03T18:34:04-03:00",
-            "date_modified": "2024-02-12T08:45:15-03:00"
+            "date_modified": "2024-06-21T00:15:43-04:00"
         },
         {
             "id": "https://www.elmikewalsh.com/simply-seasonal/",
@@ -95,7 +95,7 @@
                    "2023"
             ],
             "date_published": "2023-12-22T09:28:12-03:00",
-            "date_modified": "2024-02-09T19:12:17-03:00"
+            "date_modified": "2024-06-21T00:25:26-04:00"
         },
         {
             "id": "https://www.elmikewalsh.com/4-ways-to-fuck-up-a-simple-yesno-question/",
@@ -114,7 +114,7 @@
                    "2023"
             ],
             "date_published": "2023-12-13T13:42:41-03:00",
-            "date_modified": "2024-06-06T17:23:27-04:00"
+            "date_modified": "2024-06-21T00:07:00-04:00"
         },
         {
             "id": "https://www.elmikewalsh.com/everything-is-for-sale-dignity-not-included/",
@@ -131,7 +131,7 @@
                    "2023"
             ],
             "date_published": "2023-12-08T17:44:07-03:00",
-            "date_modified": "2024-02-09T19:12:49-03:00"
+            "date_modified": "2024-06-21T00:16:18-04:00"
         },
         {
             "id": "https://www.elmikewalsh.com/defending-your-cybercastle-digital-art-of-war/",
@@ -149,7 +149,7 @@
                    "2023"
             ],
             "date_published": "2023-11-28T16:58:50-03:00",
-            "date_modified": "2024-06-06T17:24:21-04:00"
+            "date_modified": "2024-06-21T00:15:17-04:00"
         },
         {
             "id": "https://www.elmikewalsh.com/over-the-mountains/",
@@ -166,7 +166,7 @@
                    "2023"
             ],
             "date_published": "2023-11-25T08:39:00-03:00",
-            "date_modified": "2023-12-04T17:29:39-03:00"
+            "date_modified": "2024-06-21T00:22:20-04:00"
         },
         {
             "id": "https://www.elmikewalsh.com/privacy-a-primer/",
@@ -184,7 +184,7 @@
                    "2023"
             ],
             "date_published": "2023-11-21T09:25:53-03:00",
-            "date_modified": "2024-02-09T19:13:22-03:00"
+            "date_modified": "2024-06-21T00:23:04-04:00"
         }
     ]
 }
