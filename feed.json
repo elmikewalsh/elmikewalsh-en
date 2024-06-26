@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://www.elmikewalsh.com/the-perplexing-art-of-copywrong/",
+            "url": "https://www.elmikewalsh.com/the-perplexing-art-of-copywrong/",
+            "title": "The Perplexing Art of Copywrong",
+            "content_html": "<h2>Perplexity, copyrights and citing your work - the good ol' days</h2>\n<p>AI is in the news. In daily conversations. In your social media feeds (if you do that still).  AI is the digital magic wand that will make all your dreams come true: construct your code, paint your pictures and write your articles.  Or, at least, in some cases it will write your articles. In other cases, it will simply steal them from people who already wrote them (do people still write things on the internet?)</p>\n<h3>How Confusing: Perplexity</h3>\n<p>In case you haven’t heard, the latest scandal involves the company Perplexity, which, in summary, was caught copying articles that were not theirs and not attributing the source of the articles. I won’t summarize, as the company is not worth the time. You can catch up on it here. <a href=\"https://www.fastcompany.com/91144894/perplexity-ai-ceo-aravind-srinivas-on-plagiarism-accusations\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.fastcompany.com/91144894/perplexity-ai-ceo-aravind-srinivas-on-plagiarism-accusations</a></p>\n<p>In summary, it is the digital equivalent of going to a store, shoplifting a product, changing the label, and selling it in your store.  Amazing business model! Why didn’t anyone think of that before.</p>\n<h3>Old School Accreditation</h3>\n<p>Being a bit older, I am reminded of famous musical acts such as Milli Vanilli (side note: tragic story. search for it on the internet. You might even find an original journalistic note, rather than regurgitated AI tripe). Or just click here - <a href=\"https://en.wikipedia.org/wiki/Milli_Vanilli\" target=\"_blank\" rel=\"noopener noreferrer\">https://en.wikipedia.org/wiki/Milli_Vanilli</a></p>\n<p>Why is Milli Vanilli famous?  Mainly for supposedly singing when they weren’t.</p>\n<p>Back in the day, claiming something was yours when it wasn’t was not well received.</p>\n<p>Today, however, it is apparently a very successful business model.</p>\n<p>I remember back in school if you turned in an assignment without attributing your sources, you received a 0.</p>\n<p>Maybe that should remain the model to follow?</p>\n<p><strong>Photo Used:</strong> <span class=\"s1\"><a href=\"https://pixabay.com/illustrations/internet-copyright-protection-1013675/\" target=\"_blank\" rel=\"noopener noreferrer\">pixabay.com</a></span></p>",
+            "image": "https://www.elmikewalsh.com/media/posts/52/perplexing-copywrong.jpg",
+            "author": {
+                "name": "elmikewalsh"
+            },
+            "tags": [
+                   "Technology",
+                   "Life &amp; Stuff"
+            ],
+            "date_published": "2024-06-26T09:02:00-04:00",
+            "date_modified": "2024-06-26T18:46:51-04:00"
+        },
+        {
             "id": "https://www.elmikewalsh.com/200000-building-homes-with-gpt-hammer/",
             "url": "https://www.elmikewalsh.com/200000-building-homes-with-gpt-hammer/",
             "title": "$200,000 Building Homes With GPT Hammer",
@@ -165,23 +181,6 @@
             ],
             "date_published": "2023-11-28T16:58:50-03:00",
             "date_modified": "2024-06-21T00:15:17-04:00"
-        },
-        {
-            "id": "https://www.elmikewalsh.com/over-the-mountains/",
-            "url": "https://www.elmikewalsh.com/over-the-mountains/",
-            "title": "Over The Mountains",
-            "content_html": "<p>Just a quick post to share a few photos from a trip across the mountains to a couple of towns in Argentina. Fun times (and chocolate) were had by all. :)</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://www.elmikewalsh.com/media/posts/26/gallery/IMG_0993.webp\" data-size=\"2000x1125\"><img loading=\"lazy\" src=\"https://www.elmikewalsh.com/media/posts/26/gallery/IMG_0993-thumbnail.webp\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1154.webp\" data-size=\"1125x2000\"><img loading=\"lazy\" src=\"https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1154-thumbnail.webp\" alt=\"\" width=\"720\" height=\"1280\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1397.webp\" data-size=\"2000x1125\"><img loading=\"lazy\" src=\"https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1397-thumbnail.webp\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1404.webp\" data-size=\"2000x1125\"><img loading=\"lazy\" src=\"https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1404-thumbnail.webp\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1148.webp\" data-size=\"2000x1125\"><img loading=\"lazy\" src=\"https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1148-thumbnail.webp\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1399.webp\" data-size=\"1125x2000\"><img loading=\"lazy\" src=\"https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1399-thumbnail.webp\" alt=\"\" width=\"720\" height=\"1280\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1421.webp\" data-size=\"2000x1125\"><img loading=\"lazy\" src=\"https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1421-thumbnail.webp\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1406.webp\" data-size=\"2000x1125\"><img loading=\"lazy\" src=\"https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1406-thumbnail.webp\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1357.webp\" data-size=\"2000x1125\"><img loading=\"lazy\" src=\"https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1357-thumbnail.webp\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1371.webp\" data-size=\"2000x1125\"><img loading=\"lazy\" src=\"https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1371-thumbnail.webp\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1373.webp\" data-size=\"1125x2000\"><img loading=\"lazy\" src=\"https://www.elmikewalsh.com/media/posts/26/gallery/IMG_1373-thumbnail.webp\" alt=\"\" width=\"720\" height=\"1280\"></a></figure>\n</div></div>\n<p class=\"align-center\"><em>San Martin de los Andes and Bariloche, Argentina.</em></p>",
-            "image": "https://www.elmikewalsh.com/media/posts/26/photos-tag-image.webp",
-            "author": {
-                "name": "elmikewalsh"
-            },
-            "tags": [
-                   "Photos",
-                   "All Articles",
-                   "2023"
-            ],
-            "date_published": "2023-11-25T08:39:00-03:00",
-            "date_modified": "2024-06-21T00:22:20-04:00"
         }
     ]
 }
