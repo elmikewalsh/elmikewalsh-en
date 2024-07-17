@@ -267,7 +267,7 @@
         <id>https://www.elmikewalsh.com/the-digital-black-death/</id>
         <media:content url="https://www.elmikewalsh.com/media/posts/53/black-death.webp" medium="image" />
             <category term="Tech"/>
-            <category term="Life &amp; Stuff"/>
+            <category term="Life"/>
             <category term="2024"/>
 
         <updated>2024-07-05T18:30:45-04:00</updated>
@@ -368,7 +368,7 @@
         <id>https://www.elmikewalsh.com/the-perplexing-art-of-copywrong/</id>
         <media:content url="https://www.elmikewalsh.com/media/posts/52/perplexing-copywrong.jpg" medium="image" />
             <category term="Tech"/>
-            <category term="Life &amp; Stuff"/>
+            <category term="Life"/>
 
         <updated>2024-06-22T09:02:00-04:00</updated>
             <summary></summary>
@@ -399,7 +399,7 @@
         <link href="https://www.elmikewalsh.com/200000-building-homes-with-gpt-hammer/"/>
         <id>https://www.elmikewalsh.com/200000-building-homes-with-gpt-hammer/</id>
         <media:content url="https://www.elmikewalsh.com/media/posts/36/gpt-hammer.webp" medium="image" />
-            <category term="Life &amp; Stuff"/>
+            <category term="Life"/>
             <category term="Humor"/>
             <category term="All Articles"/>
             <category term="2024"/>
@@ -504,7 +504,7 @@
         <id>https://www.elmikewalsh.com/the-naming-game/</id>
         <media:content url="https://www.elmikewalsh.com/media/posts/34/naming-game-2.webp" medium="image" />
             <category term="Tech"/>
-            <category term="Life &amp; Stuff"/>
+            <category term="Life"/>
             <category term="All Articles"/>
             <category term="2024"/>
 
@@ -554,7 +554,7 @@
         <link href="https://www.elmikewalsh.com/enough/"/>
         <id>https://www.elmikewalsh.com/enough/</id>
         <media:content url="https://www.elmikewalsh.com/media/posts/33/enough-2.webp" medium="image" />
-            <category term="Life &amp; Stuff"/>
+            <category term="Life"/>
             <category term="All Articles"/>
             <category term="2024"/>
 
