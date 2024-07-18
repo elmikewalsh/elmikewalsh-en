@@ -10,131 +10,6 @@
     <id>https://www.elmikewalsh.com</id>
 
     <entry>
-        <title>WordPress 2024: Still My Favorite Static Site Generator</title>
-        <author>
-            <name>elmikewalsh</name>
-        </author>
-        <link href="https://www.elmikewalsh.com/wordpress-2024-static-website-generator/"/>
-        <id>https://www.elmikewalsh.com/wordpress-2024-static-website-generator/</id>
-        <media:content url="https://www.elmikewalsh.com/media/posts/57/thumb.webp" medium="image" />
-            <category term="Tech"/>
-            <category term="How To..."/>
-            <category term="2024"/>
-
-        <updated>2024-07-16T19:13:00-04:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.elmikewalsh.com/media/posts/57/thumb.webp" class="type:primaryImage" alt="WordPress icon" /></p>
-                <div class="post__toc">
-<h3>Table of Contents</h3>
-<ul>
-<li><a href="#mcetoc_1i2ckag3mo">WordPress: Make Your Website a Static Website With WordPress In 2024 For Free</a></li>
-<li><a href="#mcetoc_1i2ckag3mp">Why Would Anyone Do This?</a></li>
-<li><a href="#mcetoc_1i2ckag3mq">What We’ll Do / What You'll Need</a></li>
-<li><a href="#mcetoc_1i2ckelai1g">Step 1: Download LocalWP</a></li>
-<li><a href="#mcetoc_1i2uqaroqm">Step 2: Set Up LocalWP</a></li>
-<li><a href="#mcetoc_1i2uqe85f10">Step 3: Update Permalinks</a></li>
-<li><a href="#mcetoc_1i2ckddrj1a">Step 4: Install Staatic - Static Site Generator</a></li>
-<li><a href="#mcetoc_1i2ckddrj1a">Step 5: Staatic Static Site Generator Options</a></li>
-<li><a href="#mcetoc_1i2ckddrj1a">Step 6: Generate Your Website</a></li>
-</ul>
-</div>
-<h3 id="mcetoc_1i2ckag3mo"><strong>WordPress: Make Your Website a Static Website With WordPress In 2024 For Free</strong></h3>
-<p>Hello, we’re back at it in 2024! The plan here is install WordPress in an offline environment, develop our website, with all the designs, posts, pages and plugins that you like, and then “export it” as a static website using a WordPress plugin. Since my original article in 2016, a lot has changed; WordPress has grown, and there is a new plugin to streamline this process. </p>
-<p>This is an update of <a href="https://www.elmikewalsh.com/wordpress-my-favorite-static-site-generator/">the process I wrote about waaaaay back in 2016</a>, which apparently got a fair amount of attention. Here’s we’ll look at some updated steps to make the process more modern and streamlined, as well as discover a great place to get some free WordPress themes.</p>
-<p>You will want to have the following to complete this process</p>
-<ol>
-<li>A website idea</li>
-<li>Website content (text, images, etc., ready to add into your WordPress website)</li>
-<li>An internet connection</li>
-<li>A computer (Mac, Linux, Windows)</li>
-</ol>
-<h3 id="mcetoc_1i2ckag3mp">Why Would Anyone Do This?</h3>
-<p>Each person has their specific way of doing things. A particular process. A unique workflow. There are probably people who would ask me, “Why would you use WordPress to generate static websites? Couldn’t you just use an already existing static site generator?</p>
-<blockquote>
-<p>In fact, in 2024, I would personally recommend using <a href="https://www.getpublii.com" target="_blank" rel="noopener noreferrer">Publii CMS</a>. It is amazing! (they don't pay me to say that. They don't even know).</p>
-</blockquote>
-<p>However, I know many, many, many people use WordPress and have too much time and work invested in that platform. That in itself is a reason to do this. So if you are:</p>
-<ul>
-<li>Really comfortable with WordPress, but don’t have the time to learn another system, just to create a static website.</li>
-<li>You have a client who has a WordPress theme, or insists on using WordPress and simply wants the fastest website possible.</li>
-<li>Just prefer to use WordPress for whatever reason, but are interested in making your website faster and safer...</li>
-</ul>
-<p><strong>This may be of interest to you.</strong></p>
-<p>There are also some more convincing reasons. Such as this: <strong>Security</strong>. <a href="https://bloggerspassion.com/wordpress-statistics/" target="_blank" rel="noopener noreferrer">WordPress, as of May 2024, powers over 43% of all websites in the world</a>. That makes WordPress a huge target for hackers, scammers, and the lot. And even if you keep your WordPress installation up-to-date, <a href="https://www.techradar.com/pro/security/almost-a-million-wordpress-websites-at-risk-from-this-security-flaw-heres-what-you-need-to-know-to-keep-your-site-safe" target="_blank" rel="noopener noreferrer">a forgotten or deactivated plugin on your website could create an accidental “back door”</a> for hackers to take over and cause havoc.</p>
-<p>What if you could create a website using WordPress on your computer, and then publish it as a static website? And by doing so you eliminate many of the security issues inherent in with databases, non-updated themes, software and plugins? And, as a bonus, your site is FAST?</p>
-<p><strong>Yes. You can.</strong> </p>
-<p>If you want to know how, read on.</p>
-<h3 id="mcetoc_1i2ckag3mq">What We’ll Do / What You'll Need</h3>
-<p>Here you’ll get a good step-by-step on how to set up a local server and install WordPress (the process is muuuuuch easier today). From there, you will add your content, design, layout, etc. (this is not a design article – that part is all you).</p>
-<p>Once you finish setting up your website in WordPress and are at the point where you would “publish” it for the world to see….. that’s where we will change gears. We will upload this static website to the internet (using FTP or whatever you like).</p>
-<p>As a bonus, in a follow-up article I will share with you a play-by-play on how to export your website to GitHub. (you can set up a simple website on GitHub for free, provided it isn’t super high traffic or requiring advanced scripting). </p>
-<p><span style="text-decoration: underline;"><strong>Before you invest your valuable time reading, take note of the following:</strong></span></p>
-<p>This article might not be for you if the following is true:</p>
-<ul>
-<li>If you don’t use WordPress…</li>
-<li>If you don’t know how to install WordPress…</li>
-<li>If you desire to have your visitors leave comments (using the WordPress comment feature)…</li>
-<li>If you require real-time, dynamic areas on your website…</li>
-<li>If you aren’t creating a website…</li>
-<li>If you don’t have internet…</li>
-<li>If you are looking for an advanced eCommerce website</li>
-</ul>
-<p>If this is the case, I'll understand if you drift off to some other place. (but this article might be of use to someone you know - so please share it).</p>
-<p>Ready to begin? Let's go!</p>
-<hr>
-<h3 id="mcetoc_1i2ckelai1g">Step 1: Download LocalWP</h3>
-<p>Ok so in order to install WordPress on our computer without moving it to a server, we need to setup a “server” on our computer. Previously we used a program called XAMPP, which is a bit technical and overkill for what we want to do. </p>
-<p>For this process, we are going to download <a href="https://localwp.com" target="_blank" rel="noopener noreferrer">LocalWP</a>. There are other options available to set up WordPress offline (such as XAMPP and Studio by WordPress). However, XAMPP is more technical and overkill for what we want to do. And Studio is not currently compatible with the Staatic WP Plugin which we will use to create our static Wordpress site. So head on over to LocalWP and click the download button.</p>
-<p>You will need to choose your platform and enter some information. You can enter whatever info you like, including for the email address. Once submitted, you will be able to download the program.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.elmikewalsh.com/media/posts/57/1-2.jpg" alt="LocalWP download screen requesting basic info" width="604" height="666" sizes="100vw" srcset="https://www.elmikewalsh.com/media/posts/57/responsive/1-2-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/57/responsive/1-2-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/57/responsive/1-2-md.webp 768w ,https://www.elmikewalsh.com/media/posts/57/responsive/1-2-lg.webp 1024w ,https://www.elmikewalsh.com/media/posts/57/responsive/1-2-xl.webp 1360w ,https://www.elmikewalsh.com/media/posts/57/responsive/1-2-2xl.webp 1600w"></figure>
-<h3 id="mcetoc_1i2uqaroqm">Step 2: Set Up LocalWP</h3>
-<p>Once you have finished installing the program, you will see options to <strong>Create a New Site</strong> (default option), <strong>Create From a Blueprint</strong> or <strong>Select an Existing ZIP</strong>. Choose the CREATE A NEW SITE option and then CONTINUE.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.elmikewalsh.com/media/posts/57/2-2.jpg" alt="LocalWP set up screen to create a new website." width="2372" height="1584" sizes="100vw" srcset="https://www.elmikewalsh.com/media/posts/57/responsive/2-2-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/57/responsive/2-2-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/57/responsive/2-2-md.webp 768w ,https://www.elmikewalsh.com/media/posts/57/responsive/2-2-lg.webp 1024w ,https://www.elmikewalsh.com/media/posts/57/responsive/2-2-xl.webp 1360w ,https://www.elmikewalsh.com/media/posts/57/responsive/2-2-2xl.webp 1600w"></figure>
-<p>You will then see screens asking you to NAME YOUR WEBSITE, choose your SITE ENVIRONMENT and SET UP WORDPRESS. On the final screen you will set your WordPress username, password and email (if you want). In the ADVANCED OPTIONS below, you can click that and indicate if this is a MultiSite installation. Once you are ready, click the ADD SITE button.</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://www.elmikewalsh.com/media/posts/57/gallery/3.jpg" data-size="1192x798"><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/57/gallery/3-thumbnail.webp" alt="LocalWP screen asking to name website" width="720" height="482"></a></figure>
-<figure class="gallery__item"><a href="https://www.elmikewalsh.com/media/posts/57/gallery/4.jpg" data-size="1198x798"><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/57/gallery/4-thumbnail.webp" alt="LocalWP screen asking to choose server environment" width="720" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://www.elmikewalsh.com/media/posts/57/gallery/5.jpg" data-size="1194x794"><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/57/gallery/5-thumbnail.webp" alt="LocalWP screen asking to set up WordPress credentials" width="720" height="479"></a></figure>
-</div></div>
-<p>After the setup is complete, you will see the following screen. Note the WP Admin button - you'll next want to click that button to login to your website. </p>
-<figure class="post__image"><img loading="lazy"  src="https://www.elmikewalsh.com/media/posts/57/6.jpg" alt="Screen in LocalWP that shows once site is set up." width="1200" height="800" sizes="100vw" srcset="https://www.elmikewalsh.com/media/posts/57/responsive/6-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/57/responsive/6-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/57/responsive/6-md.webp 768w ,https://www.elmikewalsh.com/media/posts/57/responsive/6-lg.webp 1024w ,https://www.elmikewalsh.com/media/posts/57/responsive/6-xl.webp 1360w ,https://www.elmikewalsh.com/media/posts/57/responsive/6-2xl.webp 1600w"></figure>
-<p>However, first, please make this small but important change. You will want to change your web server to APACHE in the following section, then click the APPLY text that appears:</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.elmikewalsh.com/media/posts/57/pre-6.jpg" alt="Change LocalWP server to Apache." width="1182" height="789" sizes="100vw" srcset="https://www.elmikewalsh.com/media/posts/57/responsive/pre-6-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/57/responsive/pre-6-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/57/responsive/pre-6-md.webp 768w ,https://www.elmikewalsh.com/media/posts/57/responsive/pre-6-lg.webp 1024w ,https://www.elmikewalsh.com/media/posts/57/responsive/pre-6-xl.webp 1360w ,https://www.elmikewalsh.com/media/posts/57/responsive/pre-6-2xl.webp 1600w"></figure>
-<h3 id="mcetoc_1i2uqe85f10">Step 3: Update Permalinks</h3>
-<p>You will need to go to the permalinks section of your WP admin and choose an option other than the default. The Staatic WP Plugin will not work if you use the default permalinks.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.elmikewalsh.com/media/posts/57/8.jpg" alt="WordPress admin screen showing location of Permalinks" width="655" height="435" sizes="100vw" srcset="https://www.elmikewalsh.com/media/posts/57/responsive/8-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/57/responsive/8-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/57/responsive/8-md.webp 768w ,https://www.elmikewalsh.com/media/posts/57/responsive/8-lg.webp 1024w ,https://www.elmikewalsh.com/media/posts/57/responsive/8-xl.webp 1360w ,https://www.elmikewalsh.com/media/posts/57/responsive/8-2xl.webp 1600w"></figure>
-<h3 id="mcetoc_1i2ckddrj1a">Step 4: Install Staatic - Static Site Generator</h3>
-<p>We are going to install the <a href="https://wordpress.org/plugins/staatic/" target="_blank" rel="noopener noreferrer">Staatic Site Generator WP Plugin</a> here to complete the setup of our process. You could complicate life by doing this manually, but since we just installed WordPress and have an internet connection, just follow the steps below.</p>
-<p>First we want to go to the Admin section of our website. So click the WP Admin link, which you should see here:</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.elmikewalsh.com/media/posts/57/7.jpg" alt="Local WP - Screenshot with link to WP Admin" width="1190" height="793" sizes="100vw" srcset="https://www.elmikewalsh.com/media/posts/57/responsive/7-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/57/responsive/7-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/57/responsive/7-md.webp 768w ,https://www.elmikewalsh.com/media/posts/57/responsive/7-lg.webp 1024w ,https://www.elmikewalsh.com/media/posts/57/responsive/7-xl.webp 1360w ,https://www.elmikewalsh.com/media/posts/57/responsive/7-2xl.webp 1600w"></figure>
-<p>This will open up in a new browser window. From here, go to the PLUGINS sections and select ADD NEW PLUGIN</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.elmikewalsh.com/media/posts/57/4.jpg" alt="WordPress backend and where to add Plugins" width="1540" height="915" sizes="100vw" srcset="https://www.elmikewalsh.com/media/posts/57/responsive/4-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/57/responsive/4-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/57/responsive/4-md.webp 768w ,https://www.elmikewalsh.com/media/posts/57/responsive/4-lg.webp 1024w ,https://www.elmikewalsh.com/media/posts/57/responsive/4-xl.webp 1360w ,https://www.elmikewalsh.com/media/posts/57/responsive/4-2xl.webp 1600w"></figure>
-<p>On the new screen type STAATIC (note the spelling) and the following should appear. Click the INSTALL NOW button. Once completed, click the ACTIVATE button that appears.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.elmikewalsh.com/media/posts/57/5.jpg" alt="Screenshot showing how to install Staatic Static Site WordPress Plugin" width="1629" height="661" sizes="100vw" srcset="https://www.elmikewalsh.com/media/posts/57/responsive/5-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/57/responsive/5-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/57/responsive/5-md.webp 768w ,https://www.elmikewalsh.com/media/posts/57/responsive/5-lg.webp 1024w ,https://www.elmikewalsh.com/media/posts/57/responsive/5-xl.webp 1360w ,https://www.elmikewalsh.com/media/posts/57/responsive/5-2xl.webp 1600w"></figure>
-<h3 id="mcetoc_1i2ckddrj1a">Step 5: Staatic Static Site Generator Options</h3>
-<p>From here the plugin is pretty simple, but there are a couple of options that may be important to you:</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.elmikewalsh.com/media/posts/57/6-2.jpg" alt="Staatic Site plugin Deployment options." width="1113" height="339" sizes="100vw" srcset="https://www.elmikewalsh.com/media/posts/57/responsive/6-2-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/57/responsive/6-2-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/57/responsive/6-2-md.webp 768w ,https://www.elmikewalsh.com/media/posts/57/responsive/6-2-lg.webp 1024w ,https://www.elmikewalsh.com/media/posts/57/responsive/6-2-xl.webp 1360w ,https://www.elmikewalsh.com/media/posts/57/responsive/6-2-2xl.webp 1600w"></figure>
-<p><strong>Destination URL:</strong> The plugin recommends an absolute URL. This means that, ideally, you know what your full website address will be (for example: <a href="http://www.example.com">www.example.com</a>). In that case, you enter that here and save.  If not, or if you plan on using this on different websites, leave the default option as-is.</p>
-<p>For now, set it to OFFLINE URL, so once we Publish this site we can actually open it offline and view it.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.elmikewalsh.com/media/posts/57/7-2.jpg" alt="Staatic Site plugin Deployment location options." width="1054" height="654" sizes="100vw" srcset="https://www.elmikewalsh.com/media/posts/57/responsive/7-2-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/57/responsive/7-2-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/57/responsive/7-2-md.webp 768w ,https://www.elmikewalsh.com/media/posts/57/responsive/7-2-lg.webp 1024w ,https://www.elmikewalsh.com/media/posts/57/responsive/7-2-xl.webp 1360w ,https://www.elmikewalsh.com/media/posts/57/responsive/7-2-2xl.webp 1600w"></figure>
-<p><strong>Deployment Method (on the DEPLOYMENT tab):</strong> These are the options on how and where you would like to generate your new static website. By default LOCAL DIRECTORY is selected, meaning the plugin will create your new static website in a folder on your computer, and then you move it where you want to. However, there are other options to deploy (publish) directly to the internet. In a future article we will take a look at how to publish your website to GitHub. For now, if you don’t have a specific deployment destination, just leave it as LOCAL DIRECTORY.</p>
-<p><strong>Target Directory:</strong> Directly related to the option above. This is where your static website copy will be created on your computer. You may want to note this - or change it - so you aren't hunting for your new static website on your computer later.</p>
-<h3 id="mcetoc_1i2ckddrj1a">Step 6: Generate Your Website</h3>
-<p>Ok we've made it to the last step - once you are ready with your website, you can click on the STAATIC option in the WP Admin, and click the second link - Publications. On the new screen that appears, click the PUBLISH NOW button.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.elmikewalsh.com/media/posts/57/9.jpg" alt="Publishing screen in the Staatic WP plugin." width="1086" height="586" sizes="100vw" srcset="https://www.elmikewalsh.com/media/posts/57/responsive/9-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/57/responsive/9-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/57/responsive/9-md.webp 768w ,https://www.elmikewalsh.com/media/posts/57/responsive/9-lg.webp 1024w ,https://www.elmikewalsh.com/media/posts/57/responsive/9-xl.webp 1360w ,https://www.elmikewalsh.com/media/posts/57/responsive/9-2xl.webp 1600w"></figure>
-<p>If all goes according to plan, you should see a series of information after the process is complete (it will surely look different than the following screen).</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.elmikewalsh.com/media/posts/57/10.jpg" alt="Staatic WP Plugin successfully deploying your website." width="1767" height="994" sizes="100vw" srcset="https://www.elmikewalsh.com/media/posts/57/responsive/10-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/57/responsive/10-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/57/responsive/10-md.webp 768w ,https://www.elmikewalsh.com/media/posts/57/responsive/10-lg.webp 1024w ,https://www.elmikewalsh.com/media/posts/57/responsive/10-xl.webp 1360w ,https://www.elmikewalsh.com/media/posts/57/responsive/10-2xl.webp 1600w"></figure>
-<p>If there are no errors, you should be all set! You can click on the RESOURCES tab (see image above) or the DOWNLOAD link in the following image to download your new website.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.elmikewalsh.com/media/posts/57/11.jpg" alt="Download your new static WordPress website." width="1764" height="710" sizes="100vw" srcset="https://www.elmikewalsh.com/media/posts/57/responsive/11-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/57/responsive/11-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/57/responsive/11-md.webp 768w ,https://www.elmikewalsh.com/media/posts/57/responsive/11-lg.webp 1024w ,https://www.elmikewalsh.com/media/posts/57/responsive/11-xl.webp 1360w ,https://www.elmikewalsh.com/media/posts/57/responsive/11-2xl.webp 1600w"></figure>
-<hr>
-<p>Thank you for making it this far! I hope this guide was useful. In a follow-up article I will show you how to deploy that new static website directly to GitHub, so you can have a simple, fast, safe and free (hosting) website!</p>
-<p><strong>Photo Used:</strong> <a href="https://pixabay.com/illustrations/wordpress-cms-1810453/" target="_blank" rel="noopener noreferrer">pixabay.com</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Using Bitwarden: Keys to your Digital Kingdom</title>
         <author>
             <name>elmikewalsh</name>
@@ -571,6 +446,38 @@
 <p>Take the time to stop, relax, look around, and enjoy. Let it go. Keep it simple. Go watch <a href="https://tv.apple.com/us/movie/a-charlie-brown-christmas/umc.cmc.mbxalimrwrtq72wj4h601pyf" target="_blank" rel="noopener noreferrer">A Charlie Brown Christmas</a>.</p>
 <p>Enjoy the holiday and live to tell about it.</p>
 <p><strong>Photo Used:</strong> Our Christmas tree. Simple. Handmade. Reusable.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>4 Ways To Fuck Up A Simple Yes / No Question</title>
+        <author>
+            <name>elmikewalsh</name>
+        </author>
+        <link href="https://www.elmikewalsh.com/4-ways-to-fuck-up-a-simple-yesno-question/"/>
+        <id>https://www.elmikewalsh.com/4-ways-to-fuck-up-a-simple-yesno-question/</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/30/4-ways-to.webp" medium="image" />
+            <category term="Politics"/>
+            <category term="Life"/>
+            <category term="Humor"/>
+            <category term="All Articles"/>
+            <category term="2023"/>
+
+        <updated>2023-12-13T13:42:41-03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.elmikewalsh.com/media/posts/30/4-ways-to.webp" class="type:primaryImage" alt="" /></p>
+                <p>On Sunday, December 17, Chile will (again) go to the polls to vote on the new constitution proposal. In very very general political terms, while the first proposal a couple years back was seen as “leftist”, the new one has been prepared by a predominantly right-wing group. It is a simple vote: Do you approve of the new constitution?  Yes or No. Simple question. How hard could it be?</p>
+<p>It’s pretty easy to fuck it up, if you think about it (which, unfortunately, I have). So, here are 4 ways to fuck up a simple yes/no question:</p>
+<ol>
+<li><strong>Answer Unprepared:</strong> To vote on a new constitution, you need to read it. You can argue all you want about how it’s long, not everyone has the education level to understand it, etc. If you are reading this, you can read the constitution. Is it long?  Hell, yeah. Over 170 pages.  Is it really interesting?  Not so much.  But considering it is an overreaching document that serves as a sort of national guide for maybe at least 100 years, it might be important.  And considering how much time we spend on phones, on Netflix, on stuff that really isn’t essential to the day-to-day, it’s more irresponsibility or laziness that we don’t bother.  Even if you don’t read it all, at least read some parts. Maybe the ones you feel are the most important.</li>
+<li><strong>Copy Someone Else’s Answer:</strong> Love this one. People all the time complain about how everyone is only interested in themselves and their own well-being; government is only interested in keeping power. But when it comes time to vote yes/no on a constitution, we open it, see how many pages it is, and resort to…. The opinions of other and/or the news. It hurts to think for myself, please think for me. My favorite is when people bitch and moan about how politicians are corrupt, then check to see what their favorite political party is going to vote. Lovely.</li>
+<li><strong>Vote Based On Who Is President:</strong> This one is absurd. A constitution (democratically prepared) is larger than one (or several) administrations. Some people will vote in favor (or against) on Sunday based solely on who is currently president. The current president, by the way, has nothing to do with the new document. It’s a bit like saying, “The football team I hate uses blue uniforms, so I hate football.”</li>
+<li><strong>Don’t Answer The Question:</strong> Annulling your vote for president or senator or what have you is one thing (still think those annulled votes should have some consequence). But this is a document that will be around for a while (if approved) so good to have an opinion. And also, not voting will expose you to a fine.</li>
+</ol>
+<p>Well, we will have to see how this turns out on the weekend. I’m sure there are many other ways to fuck up a simple yes/no question, but you need to start somewhere. And now you know.</p>
+<p><strong>Photo used: </strong><a href="https://unsplash.com/photos/a-person-is-casting-a-vote-into-a-box-T9CXBZLUvic" target="_blank" rel="noopener noreferrer">unsplash.com</a></p>
             ]]>
         </content>
     </entry>
