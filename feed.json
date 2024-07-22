@@ -37,10 +37,11 @@
             },
             "tags": [
                    "Tech",
+                   "Life &amp; Stuff",
                    "2024"
             ],
             "date_published": "2024-06-28T18:51:00-04:00",
-            "date_modified": "2024-07-08T11:47:23-04:00"
+            "date_modified": "2024-07-22T09:50:53-04:00"
         },
         {
             "id": "https://www.elmikewalsh.com/the-perplexing-art-of-copywrong/",
@@ -52,11 +53,10 @@
                 "name": "elmikewalsh"
             },
             "tags": [
-                   "Tech",
-                   "Life &amp; Stuff"
+                   "Tech"
             ],
             "date_published": "2024-06-22T09:02:00-04:00",
-            "date_modified": "2024-07-05T12:37:09-04:00"
+            "date_modified": "2024-07-22T09:50:44-04:00"
         },
         {
             "id": "https://www.elmikewalsh.com/200000-building-homes-with-gpt-hammer/",
@@ -68,13 +68,12 @@
                 "name": "elmikewalsh"
             },
             "tags": [
-                   "Life &amp; Stuff",
                    "Humor",
                    "All Articles",
                    "2024"
             ],
             "date_published": "2024-03-01T09:06:10-03:00",
-            "date_modified": "2024-06-21T00:04:47-04:00"
+            "date_modified": "2024-07-22T09:51:11-04:00"
         },
         {
             "id": "https://www.elmikewalsh.com/the-art-of-a-good-password/",
@@ -139,7 +138,7 @@
                 "name": "dev"
             },
             "tags": [
-                   "My Designs"
+                   "My Design Work"
             ],
             "date_published": "2023-12-28T19:27:00-03:00",
             "date_modified": "2024-07-04T18:46:49-04:00"
@@ -172,13 +171,12 @@
             },
             "tags": [
                    "Politics",
-                   "Life &amp; Stuff",
                    "Humor",
                    "All Articles",
                    "2023"
             ],
             "date_published": "2023-12-13T13:42:41-03:00",
-            "date_modified": "2024-06-21T00:07:00-04:00"
+            "date_modified": "2024-07-22T09:51:29-04:00"
         }
     ]
 }

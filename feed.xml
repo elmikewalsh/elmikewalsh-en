@@ -3,7 +3,7 @@
     <title>I Write Stuff</title>
     <link href="https://www.elmikewalsh.com/feed.xml" rel="self" />
     <link href="https://www.elmikewalsh.com" />
-    <updated>2024-07-17T16:31:27-04:00</updated>
+    <updated>2024-07-22T09:51:29-04:00</updated>
     <author>
         <name>elmikewalsh</name>
     </author>
@@ -142,6 +142,7 @@
         <id>https://www.elmikewalsh.com/squarespace-sucks/</id>
         <media:content url="https://www.elmikewalsh.com/media/posts/54/squarespace-sucks-2.webp" medium="image" />
             <category term="Tech"/>
+            <category term="Life &amp; Stuff"/>
             <category term="2024"/>
 
         <updated>2024-06-28T18:51:00-04:00</updated>
@@ -180,7 +181,6 @@
         <id>https://www.elmikewalsh.com/the-perplexing-art-of-copywrong/</id>
         <media:content url="https://www.elmikewalsh.com/media/posts/52/perplexing-copywrong.jpg" medium="image" />
             <category term="Tech"/>
-            <category term="Life &amp; Stuff"/>
 
         <updated>2024-06-22T09:02:00-04:00</updated>
             <summary></summary>
@@ -211,7 +211,6 @@
         <link href="https://www.elmikewalsh.com/200000-building-homes-with-gpt-hammer/"/>
         <id>https://www.elmikewalsh.com/200000-building-homes-with-gpt-hammer/</id>
         <media:content url="https://www.elmikewalsh.com/media/posts/36/gpt-hammer.webp" medium="image" />
-            <category term="Life &amp; Stuff"/>
             <category term="Humor"/>
             <category term="All Articles"/>
             <category term="2024"/>
@@ -394,7 +393,7 @@
         <link href="https://www.elmikewalsh.com/publii-cms-spanish-translation/"/>
         <id>https://www.elmikewalsh.com/publii-cms-spanish-translation/</id>
         <media:content url="https://www.elmikewalsh.com/media/posts/51/cover-publii-trans-1.webp" medium="image" />
-            <category term="My Designs"/>
+            <category term="My Design Work"/>
 
         <updated>2023-12-28T19:27:00-03:00</updated>
             <summary></summary>
@@ -458,7 +457,6 @@
         <id>https://www.elmikewalsh.com/4-ways-to-fuck-up-a-simple-yesno-question/</id>
         <media:content url="https://www.elmikewalsh.com/media/posts/30/4-ways-to.webp" medium="image" />
             <category term="Politics"/>
-            <category term="Life &amp; Stuff"/>
             <category term="Humor"/>
             <category term="All Articles"/>
             <category term="2023"/>
