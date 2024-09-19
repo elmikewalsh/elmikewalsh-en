@@ -3,7 +3,7 @@
     <title>I Write Stuff</title>
     <link href="https://www.elmikewalsh.com/feed.xml" rel="self" />
     <link href="https://www.elmikewalsh.com" />
-    <updated>2024-07-22T18:09:38-04:00</updated>
+    <updated>2024-09-18T12:31:14-03:00</updated>
     <author>
         <name>elmikewalsh</name>
     </author>
@@ -16,16 +16,16 @@
         </author>
         <link href="https://www.elmikewalsh.com/bitwarden-keys-to-your-digital-kingdom/"/>
         <id>https://www.elmikewalsh.com/bitwarden-keys-to-your-digital-kingdom/</id>
-        <media:content url="https://www.elmikewalsh.com/media/posts/56/bitwarden-2.webp" medium="image" />
+        <media:content url="https://www.elmikewalsh.com/media/posts/56/bitwarden-keys.webp" medium="image" />
             <category term="Tech"/>
             <category term="How To..."/>
-            <category term="2024"/>
+            <category term="All Articles"/>
 
         <updated>2024-07-08T16:14:00-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmikewalsh.com/media/posts/56/bitwarden-2.webp" class="type:primaryImage" alt="A pile of keys on a dark background." /></p>
+                    <p><img src="https://www.elmikewalsh.com/media/posts/56/bitwarden-keys.webp" class="type:primaryImage" alt="A pile of keys on a dark background." /></p>
                 <div class="post__toc">
 <h3>Table of Contents</h3>
 <ul>
@@ -50,7 +50,7 @@
 <p>In 2024, using a password manager is super important – almost vital.  Since nearly everything is done online — from banking to bowel movements (well, not quite yet), social media and shopping — individuals are more exposed to potential data breaches than ever before. It's very important to <a href="https://www.elmikewalsh.com/defending-your-cybercastle-digital-art-of-war/">defend your cybercastle</a> (pardon the ridiculous illustration) from people who like to stick their fingers where they don't belong.</p>
 <p>Password managers offer a secure solution by generating complex, unique passwords for each of your accounts, reducing the risk of using easily guessed or reused passwords across multiple sites. This practice not only strengthens personal security but also shields against credential stuffing attacks, where hackers use compromised passwords from one site to access others (which is a complex way of saying that if hackers get your password from one data breach, they can try all your accounts, in case you use the same password everywhere).</p>
 <p>As we open accounts and use services on more and more sites, maintaining a consistent level of security becomes challenging without a password manager. These tools not only store passwords securely but also simplify the login process across different devices, enhancing both convenience and security. By centralizing password management, users can focus on their activities online without the constant worry of remembering or securing multiple passwords manually.</p>
-<p>I was, like you, hesitant to start, thinking that it would be difficult, complicated and a lot of work (and I like tech stuff). I went with <a href="https://bitwarden.com" target="_blank" rel="noopener noreferrer">Bitwarden</a> because it had great reviews AND …..it was (and is) free. If you like this, you can <a href="https://www.elmikewalsh.com/not-my-faultapp-default/">check out a list of other software / services I recommend</a>.</p>
+<p>I was, like you, hesitant to start, thinking that it would be difficult, complicated and a lot of work (and I like tech stuff). I went with <a href="https://bitwarden.com" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Bitwarden</a> because it had great reviews AND …..it was (and is) free. If you like this, you can <a href="https://www.elmikewalsh.com/not-my-faultapp-default/">check out a list of other software / services I recommend</a>.</p>
 <h3 id="mcetoc_1i2a0d7olrs">Getting Started with Bitwarden: Your First Password Manager</h3>
 <p>Ok, so you’re considering setting up this complex and terrifying “password manager”.  Before we begin, it might help to simplify the idea of a “password manager” a bit. Imagine that over the course of your day you had to unlock 40 doors with physical keys. Each key if different. And good thing; if all 40 locks used the same key, you could imagine what would happen if you lost one, right?</p>
 <p>Using the same password on your email, bank, social media, Netflix account, etc, is like using one physical key to open all your locks. Good luck to you if you lose your key or someone steals it to make themselves a copy.</p>
@@ -59,7 +59,7 @@
 <p>What if, using this FREE software, you could create just ONE safe complex password and only have to remember that one password. Because once you open your Bitwarden with that password, all your other passwords are safely waiting inside. And those passwords could be super safe and super long. (Maybe 30, 40, 60 characters long; a hideous mix of letters, numbers, capitalization, etc). You wouldn’t ever have to think of a new and safe password again, because the program automatically generates one for you.</p>
 <p>Bitwarden does that. Interested? This takes a bit of time to set up, but once complete, you’re good to go. I took the leap. Take a little to get used to it.  But it’s soooooo much better.  Follow along:</p>
 <h3 id="mcetoc_1i2a0d7olrt">Step 1: Visit the Bitwarden Website</h3>
-<p>Head over to <a href="https://bitwarden.com" target="_blank" rel="noopener noreferrer">Bitwarden's official website</a>. You can poke around and learn about the product, the company, etc. But we’re here for the free software, so let’s continue….</p>
+<p>Head over to <a href="https://bitwarden.com" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Bitwarden's official website</a>. You can poke around and learn about the product, the company, etc. But we’re here for the free software, so let’s continue….</p>
 <h3 id="mcetoc_1i2a0d7olru">Step 2: Download the Software</h3>
 <p>Once on the Bitwarden homepage, click on the “Download” button in the top navigation bar. You’ll be taken to a page with various download options. Bitwarden is available on multiple platforms including Windows, macOS, Linux, iOS, and Android. Choose the platform that suits your needs and follow the instructions to download the app.</p>
 <p>For instance, if you’re using Windows:</p>
@@ -122,14 +122,14 @@
 <h3 id="mcetoc_1i2a0d7ols7">Step 11: Sync Across Devices</h3>
 <p>Make sure your passwords are available on all your devices. Install Bitwarden on your phone and log in with your account. Your vault will sync automatically, ensuring you have access to your passwords wherever you go.</p>
 <h3 id="mcetoc_1i2a0d7ols8">Step 12: Explore Advanced Features</h3>
-<p>Bitwarden offers many advanced features such as secure notes, password sharing, and encrypted file storage. While these, and other paid offerings, are not at all necessary, you can certainly see if you like what they offer. If Bitwarden is not your cup of tea, I could also recommend <a href="https://proton.me/pass" target="_blank" rel="noopener noreferrer">Proton Pass</a>.</p>
+<p>Bitwarden offers many advanced features such as secure notes, password sharing, and encrypted file storage. While these, and other paid offerings, are not at all necessary, you can certainly see if you like what they offer. If Bitwarden is not your cup of tea, I could also recommend <a href="https://proton.me/pass" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Proton Pass</a>.</p>
 <h3 id="mcetoc_1i2a0d7ols9">You Did It!</h3>
 <p>Congratulations! You’ve now set up Bitwarden, and can generate super long, secure passwords that are different for all your websites – and you only need to remember that one MASTER PASSWORD...</p>
 <blockquote>
 <p>Make sure your MASTER PASSWORD is something you will remember easily. Part of the reason Bitwarden is so secure is that they do not know your password. They don’t have access and they can’t send you a link to reset it. You can change the password later, but you will need to know the current password. Your master password cannot be recovered if you forget it! <span style="color: #ba372a;"><strong>So if you forget your MASTER PASSWORD, you’re screwed; you can’t get in, you can’t recover your password.</strong></span> Please make sure you choose a MASTER PASSWORD you will remember. PAY CLOSE ATTENTION TO THIS STEP!</p>
 </blockquote>
 <p>I hope this has been of help!</p>
-<p><strong>Photo Used:</strong> <a href="https://unsplash.com/photos/a-pile-of-keys-sitting-on-top-of-a-table-r8VbpgMS6Uc" target="_blank" rel="noopener noreferrer">unsplash.com</a></p>
+<p><strong>Photo Used:</strong> <a href="https://unsplash.com/photos/a-pile-of-keys-sitting-on-top-of-a-table-r8VbpgMS6Uc" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">unsplash.com</a></p>
             ]]>
         </content>
     </entry>
@@ -140,16 +140,17 @@
         </author>
         <link href="https://www.elmikewalsh.com/squarespace-sucks/"/>
         <id>https://www.elmikewalsh.com/squarespace-sucks/</id>
-        <media:content url="https://www.elmikewalsh.com/media/posts/54/squarespace-sucks-2.webp" medium="image" />
+        <media:content url="https://www.elmikewalsh.com/media/posts/54/squarespace.sucks.webp" medium="image" />
             <category term="Tech"/>
             <category term="Life &amp; Stuff"/>
+            <category term="All Articles"/>
             <category term="2024"/>
 
         <updated>2024-06-28T18:51:00-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmikewalsh.com/media/posts/54/squarespace-sucks-2.webp" class="type:primaryImage" alt="Image of person with two middle fingers up." /></p>
+                    <p><img src="https://www.elmikewalsh.com/media/posts/54/squarespace.sucks.webp" class="type:primaryImage" alt="Image of person with two middle fingers up." /></p>
                 <div class="post__toc">
 <h3>Table of Contents</h3>
 <ul>
@@ -165,10 +166,10 @@
 <p><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r19:" data-state="closed"><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1a:" data-state="closed">Domain transfers should not be very complicated. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1b:" data-state="closed">It was such a piece of cake when Google Domains was in charge of it. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1c:" data-state="closed">They would just email you and literally just click a link and your domain transfer is done and confirmed. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1d:" data-state="closed">But under Squarespace? </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1e:" data-state="closed">Forget it. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1f:" data-state="closed">They take five days (!) to complete a domain transfer, which would piss off anyone who values time. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1g:" data-state="closed">Yes, five days. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1h:" data-state="closed">That is nothing short of a lifetime in Internet years. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1i:" data-state="closed">It seems like Squarespace just throws up this obstacle to convince you to stay. For all its issues, at least Google kept it simple and efficient.</span></span></p>
 <h3 id="mcetoc_1i22ic36dac">Glacially Slow Support</h3>
 <p><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1l:" data-state="closed">A word about customer support with Squarespace: if you ever need help from these guys, be patient. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1m:" data-state="closed">And wait. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1n:" data-state="closed">And wait some more. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1o:" data-state="closed">Their email and chat support team were terrible. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1p:" data-state="closed">The communication was poor, and it took days to get a reply from them. In domain transfers, you need a quick reply. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1q:" data-state="closed">However, going by some of their practices, it is apparent that Squarespace has no idea what they're doing.</span></p>
-<p><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1s:" data-state="closed">Ever since I realized that Google Domains was for sale, I began migrating my domains away from it. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1t:" data-state="closed">My escape route? </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1u:" data-state="closed"><a href="https://www.cloudflare.com" target="_blank" rel="noopener noreferrer">Cloudflare</a>. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1v:" data-state="closed">No joke - it has been, for me at least, one of the most delightful experiences I have had (I mention them, <a href="https://www.elmikewalsh.com/not-my-faultapp-default/">and other tech recommendations here</a>). Here’s why: </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r20:" data-state="closed">Not only is the transfer process streamlined, it is secure and offers great domain options. There’s also the no-price markup. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r21:" data-state="closed">Continuing with Cloudflare is simple, as I know up-front the costs I will get hit with: no yearly surprises here.</span></p>
+<p><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1s:" data-state="closed">Ever since I realized that Google Domains was for sale, I began migrating my domains away from it. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1t:" data-state="closed">My escape route? </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1u:" data-state="closed"><a href="https://www.cloudflare.com" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Cloudflare</a>. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1v:" data-state="closed">No joke - it has been, for me at least, one of the most delightful experiences I have had (I mention them, <a href="https://www.elmikewalsh.com/not-my-faultapp-default/">and other tech recommendations here</a>). Here’s why: </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r20:" data-state="closed">Not only is the transfer process streamlined, it is secure and offers great domain options. There’s also the no-price markup. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r21:" data-state="closed">Continuing with Cloudflare is simple, as I know up-front the costs I will get hit with: no yearly surprises here.</span></p>
 <h3 id="mcetoc_1i22ic36dad"><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r22:" data-state="closed"><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r23:" data-state="closed">Down With Squarespace</span></span></h3>
 <p><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r22:" data-state="closed"><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r24:" data-state="closed">Terrible for anyone who wants to be organize their domains efficiently, Squarespace has a remarkably inefficient domain transfer procedure and near non-existent support. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r25:" data-state="closed">If you're looking for a domain registrar option, Cloudflare is a great one. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r26:" data-state="closed">They have been professional, responsive, and a pleasure to deal with. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r27:" data-state="closed">It’s hip to be square, perhaps, but not to be Squarespace.</span></span></p>
-<p><strong>Photo Used:</strong> <a href="https://www.pexels.com/photo/back-view-of-man-carrying-a-backpack-with-arms-raised-doing-the-middle-finger-2618605/" target="_blank" rel="noopener noreferrer">pexels.com</a></p>
+<p><strong>Photo Used:</strong> <a href="https://www.pexels.com/photo/back-view-of-man-carrying-a-backpack-with-arms-raised-doing-the-middle-finger-2618605/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">pexels.com</a></p>
             ]]>
         </content>
     </entry>
@@ -179,27 +180,28 @@
         </author>
         <link href="https://www.elmikewalsh.com/the-perplexing-art-of-copywrong/"/>
         <id>https://www.elmikewalsh.com/the-perplexing-art-of-copywrong/</id>
-        <media:content url="https://www.elmikewalsh.com/media/posts/52/perplexing-copywrong.jpg" medium="image" />
+        <media:content url="https://www.elmikewalsh.com/media/posts/52/perplexing-art-copywrong.webp" medium="image" />
             <category term="Tech"/>
+            <category term="All Articles"/>
 
         <updated>2024-06-22T09:02:00-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmikewalsh.com/media/posts/52/perplexing-copywrong.jpg" class="type:primaryImage" alt="Image of a faceless person holding a copyright symbol" /></p>
+                    <p><img src="https://www.elmikewalsh.com/media/posts/52/perplexing-art-copywrong.webp" class="type:primaryImage" alt="Image of a red copyright symbol" /></p>
                 <h3>Perplexity, copyrights and citing your work - the good ol' days</h3>
 <p>AI is in the news. In daily conversations. In your social media feeds (if you do that still).  AI is the digital magic wand that will make all your dreams come true: construct your code, paint your pictures and write your articles.  Or, at least, in some cases it will write your articles. In other cases, it will simply steal them from people who already wrote them (do people still write things on the internet?)</p>
 <h3>How Confusing: Perplexity</h3>
-<p>In case you haven’t heard, the latest scandal involves the company Perplexity, which, in summary, was caught copying articles that were not theirs and not attributing the source of the articles. I won’t summarize, as the company is not worth the time. You can catch up on it here. <a href="https://www.fastcompany.com/91144894/perplexity-ai-ceo-aravind-srinivas-on-plagiarism-accusations" target="_blank" rel="noopener noreferrer">https://www.fastcompany.com/91144894/perplexity-ai-ceo-aravind-srinivas-on-plagiarism-accusations</a></p>
+<p>In case you haven’t heard, the latest scandal involves the company Perplexity, which, in summary, was caught copying articles that were not theirs and not attributing the source of the articles. I won’t summarize, as the company is not worth the time. You can catch up on it here. <a href="https://www.fastcompany.com/91144894/perplexity-ai-ceo-aravind-srinivas-on-plagiarism-accusations" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">https://www.fastcompany.com/91144894/perplexity-ai-ceo-aravind-srinivas-on-plagiarism-accusations</a></p>
 <p>In summary, it is the digital equivalent of going to a store, shoplifting a product, changing the label, and selling it in your store.  Amazing business model! Why didn’t anyone think of that before.</p>
 <h3>Old School Accreditation</h3>
-<p>Being a bit older, I am reminded of famous musical acts such as Milli Vanilli (side note: tragic story. search for it on the internet. You might even find an original journalistic note, rather than regurgitated AI tripe). Or just click here - <a href="https://en.wikipedia.org/wiki/Milli_Vanilli" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Milli_Vanilli</a></p>
+<p>Being a bit older, I am reminded of famous musical acts such as Milli Vanilli (side note: tragic story. search for it on the internet. You might even find an original journalistic note, rather than regurgitated AI tripe). Or just click here - <a href="https://en.wikipedia.org/wiki/Milli_Vanilli" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">https://en.wikipedia.org/wiki/Milli_Vanilli</a></p>
 <p>Why is Milli Vanilli famous?  Mainly for supposedly singing when they weren’t.</p>
 <p>Back in the day, claiming something was yours when it wasn’t was not well received.</p>
 <p>Today, however, it is apparently a very successful business model.</p>
 <p>I remember back in school if you turned in an assignment without attributing your sources, you received a 0.</p>
 <p>Maybe that should remain the model to follow?</p>
-<p><strong>Photo Used:</strong> <span class="s1"><a href="https://pixabay.com/illustrations/internet-copyright-protection-1013675/" target="_blank" rel="noopener noreferrer">pixabay.com</a></span></p>
+<p><strong>Photo Used:</strong> <span class="s1"><a href="https://pixabay.com/illustrations/internet-copyright-protection-1013675/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">pixabay.com</a></span></p>
             ]]>
         </content>
     </entry>
@@ -210,16 +212,15 @@
         </author>
         <link href="https://www.elmikewalsh.com/200000-building-homes-with-gpt-hammer/"/>
         <id>https://www.elmikewalsh.com/200000-building-homes-with-gpt-hammer/</id>
-        <media:content url="https://www.elmikewalsh.com/media/posts/36/gpt-hammer.webp" medium="image" />
+        <media:content url="https://www.elmikewalsh.com/media/posts/36/gpt-hammer-2.webp" medium="image" />
             <category term="Humor"/>
             <category term="All Articles"/>
-            <category term="2024"/>
 
         <updated>2024-03-01T09:06:10-03:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmikewalsh.com/media/posts/36/gpt-hammer.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.com/media/posts/36/gpt-hammer-2.webp" class="type:primaryImage" alt="" /></p>
                 <div class="post__toc">
 <h3>Table of Contents</h3>
 <ul>
@@ -250,7 +251,7 @@
 <h3 id="mcetoc_1hvnm71pmo">The Full Money</h3>
 <p>Still, I suppose that most people will still want to find that magical easy way to make money with little to no effort. I suppose that there are ways to take Chat GPT (which is just a tool, by the way) and apply it to a <strong>new</strong> idea. If you are going to go this route, at least take a route that no one else is going.</p>
 <p>I, for one, have applied ChatGPT to our toolbox and it now builds houses automatically. I’ve written a Python script to post the houses on the internet, so they just basically sell themselves.  :)</p>
-<p><strong>Photo Used:</strong> <a href="https://unsplash.com/photos/white-and-gray-metal-pipe-8pgK7WMSnXs" target="_blank" rel="noopener noreferrer">unsplash.com</a></p>
+<p><strong>Photo Used:</strong> <a href="https://unsplash.com/photos/white-and-gray-metal-pipe-8pgK7WMSnXs" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">unsplash.com</a></p>
             ]]>
         </content>
     </entry>
@@ -288,8 +289,8 @@
 <h3 id="mcetoc_1hvnmsk5313">Choose a free password manager</h3>
 <p>First you need to choose one. There are all sorts of free and paid options, but there are two options that are more than enough for your needs, and both are free:</p>
 <ul>
-<li><a href="https://bitwarden.com/" target="_blank" rel="noopener noreferrer">Bitwarden</a></li>
-<li><a href="https://proton.me/pass" target="_blank" rel="noopener noreferrer">Proton Pass</a></li>
+<li><a href="https://bitwarden.com/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Bitwarden</a></li>
+<li><a href="https://proton.me/pass" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Proton Pass</a></li>
 </ul>
 <p>The choice is yours - I had access to Bitwarden first so mainly use that. The design is a bit dated. Proton Pass, on the other hand, is much nicer to look at, but not as mature a product as Bitwarden. Anyways, choose one and install. Then, the next step is the most important:</p>
 <h3>Create a strong master password</h3>
@@ -302,7 +303,7 @@
 <p>Use the Password Manager to manually generate new passwords and also check if your password is found in a data breach. Some password managers, like Bitwarden, will let you easily set a password length (40, 50, even 100 characters). These will be passwords that you are likely unable to ever memorize. However, it isn’t necessary - as long as you remember the master password you set up in step #2, you’ll have access to it.  It also doesn’t matter what browser you use, as there is an extension that you can install and use on your computer, phone, etc.</p>
 <p>Quick easy steps. In 2024 there is no excuse for using a poor password. You can take a small amount of time now to peacefully set up a password manager…. or a lot more (and stressful) time later on.</p>
 <p>Good luck!</p>
-<p><strong>Photo used:</strong> <a href="https://pixabay.com/illustrations/security-professional-secret-5199236/" target="_blank" rel="noopener noreferrer">pixabay.com</a></p>
+<p><strong>Photo used:</strong> <a href="https://pixabay.com/illustrations/security-professional-secret-5199236/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">pixabay.com</a></p>
             ]]>
         </content>
     </entry>
@@ -313,7 +314,7 @@
         </author>
         <link href="https://www.elmikewalsh.com/the-naming-game/"/>
         <id>https://www.elmikewalsh.com/the-naming-game/</id>
-        <media:content url="https://www.elmikewalsh.com/media/posts/34/naming-game-2.webp" medium="image" />
+        <media:content url="https://www.elmikewalsh.com/media/posts/34/the-naming-game-2.webp" medium="image" />
             <category term="Tech"/>
             <category term="Life &amp; Stuff"/>
             <category term="All Articles"/>
@@ -323,7 +324,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmikewalsh.com/media/posts/34/naming-game-2.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.com/media/posts/34/the-naming-game-2.webp" class="type:primaryImage" alt="" /></p>
                 <p>Presenting yourself on the internet can be rather complicated. Especially when you add the factor of a multilanguage website.  Domain name availability, the ability to pronounce / spell a name are all factors.</p>
 <p>Recently I’ve put what I believe to be the final touches (for now, at least) on my personal website setup.  Originally, I went with one domain name and a subdomain for English speakers. It looked something like this:</p>
 <ul>
@@ -345,7 +346,7 @@
 <p><strong>Here’s how I got around it:</strong></p>
 <ol>
 <li>I have two separate domain names  - it’s as short as possible and only the extensions are different.</li>
-<li>For Spanish speakers (and a slight search results boost by using a ccTLD) I can be found at - <a href="https://www.elmike.cl" target="_blank" rel="noopener noreferrer">elmike.cl</a></li>
+<li>For Spanish speakers (and a slight search results boost by using a ccTLD) I can be found at - <a href="https://www.elmike.cl" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">elmike.cl</a></li>
 <li>For the English version of my personal site I went with - elmike.me (you are here)</li>
 <li>For personal email I went with the .me version, since .me works well in Spanish as well.  It’s also easier to say, as “cl” is unpronounceable and you end up saying each letter.</li>
 <li>Also by eliminating my last name, a Spanish-speaker is just left with “mike”.  For the Spanish-speaker (Chilean) that can’t spell it (quite a few it seems) I can say, “Mike. Mee-Kay-con-Ka) and that will work 99% of the time.</li>
@@ -364,7 +365,7 @@
         </author>
         <link href="https://www.elmikewalsh.com/enough/"/>
         <id>https://www.elmikewalsh.com/enough/</id>
-        <media:content url="https://www.elmikewalsh.com/media/posts/33/enough-2.webp" medium="image" />
+        <media:content url="https://www.elmikewalsh.com/media/posts/33/enough.webp" medium="image" />
             <category term="Life &amp; Stuff"/>
             <category term="All Articles"/>
             <category term="2024"/>
@@ -373,7 +374,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmikewalsh.com/media/posts/33/enough-2.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.com/media/posts/33/enough.webp" class="type:primaryImage" alt="" /></p>
                 <p>Quentin Tarantino recently remarked that he plans to make 10 movies, and that’s it. (note: in context, he did indicate that he would be fine doing something later on despite having done 10 movies, so it’s not a set-in-stone number). Mentioned wanting to go out at the top of his game.  Similar to some, but not all, athletes.  The same applies to everything; our “mere mortal” projects. Our jobs. Our ambitions. Our desire to make more, have more, obtain more, visit more, watch more, see more.</p>
 <p><strong>At what point is it enough?</strong></p>
 <p>Enough means the necessary to meet a need or desire. So once you reach that point, everything beyond that is extra. Unnecessary. Wasteful, even.</p>
@@ -381,7 +382,7 @@
 <p>There is a strong minimalism trend in a number of circles. You can find excesses in minimalism as well, as many try to do away with everything except the bare spartan essentials of life. In the design world, minimalism appears to mean “Only use black and white please. Hopefully only text.”.  But in some cases, enough means more than black and white.</p>
 <p>There is an old adage to “take everything in moderation”. That is a fine way to avoid excesses, but then again, taking “everything in moderation” is in itself excessive. More than “enough” (so go crazy every once in a while). </p>
 <p>It’s a good idea to stop every now and again to ask yourself, “What is enough?”  If not, you may never know when you’ve arrived.</p>
-<p><strong>Photo used: </strong><a href="https://www.shopify.com/stock-photos/photos/red-wine-in-kitchen" target="_blank" rel="noopener noreferrer">shopify.com</a></p>
+<p><strong>Photo used: </strong><a href="https://unsplash.com/photos/black-liquid-in-clear-wine-glass-on-brown-wooden-table-sd_TGAfxPsg" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">unsplash.com</a></p>
             ]]>
         </content>
     </entry>
@@ -392,24 +393,22 @@
         </author>
         <link href="https://www.elmikewalsh.com/publii-cms-spanish-translation/"/>
         <id>https://www.elmikewalsh.com/publii-cms-spanish-translation/</id>
-        <media:content url="https://www.elmikewalsh.com/media/posts/51/cover-publii-trans-1.webp" medium="image" />
-            <category term="My Design Work"/>
+            <category term="My Designs"/>
 
         <updated>2023-12-28T19:27:00-03:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmikewalsh.com/media/posts/51/cover-publii-trans-1.webp" class="type:primaryImage" alt="A computer monitor displaying the Publii logo, showcasing digital project management tools by Mike Walsh in Villarrica, Chile." /></p>
                 <h3>Ongoing Spanish Translation For Publii CMS</h3>
-<p>I have recently had multiple projects based on <a href="https://getpublii.com/" target="_blank" rel="noopener noreferrer">Publii CMS</a>. Publii is an amazing program that makes it easy to create and manage your website. The developer community has also provided a number of translations. However, one of Publii's previous limitations was the lack of a complete Spanish translation. So, I took it upon myself to fill in the blank.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.elmikewalsh.com/media/posts/51/publii-trans-2-2xl.webp" alt="Two iMac screens with coding and Publii logo." width="1200" height="675" sizes="100vw" srcset="https://www.elmikewalsh.com/media/posts/51/responsive/publii-trans-2-2xl-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/51/responsive/publii-trans-2-2xl-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/51/responsive/publii-trans-2-2xl-md.webp 768w ,https://www.elmikewalsh.com/media/posts/51/responsive/publii-trans-2-2xl-lg.webp 1024w ,https://www.elmikewalsh.com/media/posts/51/responsive/publii-trans-2-2xl-xl.webp 1360w ,https://www.elmikewalsh.com/media/posts/51/responsive/publii-trans-2-2xl-2xl.webp 1600w"></figure>
+<p>I have recently had multiple projects based on <a href="https://getpublii.com/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Publii CMS</a>. Publii is an amazing program that makes it easy to create and manage your website. The developer community has also provided a number of translations. However, one of Publii's previous limitations was the lack of a complete Spanish translation. So, I took it upon myself to fill in the blank.</p>
+<figure class="post__image"><img loading="lazy"  src="https://www.elmikewalsh.com/media/posts/51/publii-trans-2-2xl.webp" alt="Two iMac screens with coding and Publii logo." width="1200" height="675" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://www.elmikewalsh.com/media/posts/51/responsive/publii-trans-2-2xl-xs.webp 640w ,https://www.elmikewalsh.com/media/posts/51/responsive/publii-trans-2-2xl-sm.webp 768w ,https://www.elmikewalsh.com/media/posts/51/responsive/publii-trans-2-2xl-md.webp 1024w ,https://www.elmikewalsh.com/media/posts/51/responsive/publii-trans-2-2xl-lg.webp 1366w ,https://www.elmikewalsh.com/media/posts/51/responsive/publii-trans-2-2xl-xl.webp 1600w ,https://www.elmikewalsh.com/media/posts/51/responsive/publii-trans-2-2xl-2xl.webp 1920w"></figure>
 <p>Over the course of a month, I reviewed and translated more than 1,300 lines of code into Spanish, both for the main program and for the text editor (theme translations may come at a future date).</p>
-<p>Once this was finished I submitted the merge request from my <a href="https://www.github.com/elmikewalsh" target="_blank" rel="noopener noreferrer">Github</a>, which was accepted at the start of the new year.</p>
+<p>Once this was finished I submitted the merge request from my <a href="https://www.github.com/elmikewalsh" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Github</a>, which was accepted at the start of the new year.</p>
 <p>If you are interested, you can click the button below to download the latest Spanish language pack for Publii CMS.</p>
 <h4>Technical Details</h4>
 <ul>
 <li>
-<p>The translation of the code was completed in <a href="https://www.sublimetext.com/" target="_blank" rel="noopener noreferrer">Sublime Text</a>.</p>
+<p>The translation of the code was completed in <a href="https://www.sublimetext.com/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Sublime Text</a>.</p>
 </li>
 </ul>
 <p class="align-center"><a href="https://github.com/GetPublii/Publii-ui-locales/blob/main/downloads/0.44.1/es-cl.zip" target="_blank" rel="noopener noreferrer" class="btn btn--outline">Publii 0.44.4 Spanish Language Pack</a></p>
@@ -423,7 +422,7 @@
         </author>
         <link href="https://www.elmikewalsh.com/simply-seasonal/"/>
         <id>https://www.elmikewalsh.com/simply-seasonal/</id>
-        <media:content url="https://www.elmikewalsh.com/media/posts/32/our-tree.jpg" medium="image" />
+        <media:content url="https://www.elmikewalsh.com/media/posts/32/our-tree-2.jpg" medium="image" />
             <category term="Life &amp; Stuff"/>
             <category term="All Articles"/>
             <category term="2023"/>
@@ -432,7 +431,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmikewalsh.com/media/posts/32/our-tree.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.com/media/posts/32/our-tree-2.jpg" class="type:primaryImage" alt="" /></p>
                 <p>According to the Gregorian calendar, another year (2023) is coming to a close. That time of year where many people across the world enter the yearly commercialist furor and shop, shop, shop, eat, eat, eat and drink, drink, drink.</p>
 <ul>
 <li>Let’s get XYZ gifts for XYZ people. Person X is surely going to give us a gift, so we have to have one to gift back to Person X.</li>
@@ -442,7 +441,7 @@
 <li>“The tree has to be bigger than last year. More tree. More lights!”</li>
 </ul>
 <p>Oh my goodness, I have a headache and am stressed just writing this.  Pull the handbrake. Stop. Breathe. Relax. Step away from the stress machine and <strong>no. one. will. get. hurt.</strong></p>
-<p>Take the time to stop, relax, look around, and enjoy. Let it go. Keep it simple. Go watch <a href="https://tv.apple.com/us/movie/a-charlie-brown-christmas/umc.cmc.mbxalimrwrtq72wj4h601pyf" target="_blank" rel="noopener noreferrer">A Charlie Brown Christmas</a>.</p>
+<p>Take the time to stop, relax, look around, and enjoy. Let it go. Keep it simple. Go watch <a href="https://tv.apple.com/us/movie/a-charlie-brown-christmas/umc.cmc.mbxalimrwrtq72wj4h601pyf" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">A Charlie Brown Christmas</a>.</p>
 <p>Enjoy the holiday and live to tell about it.</p>
 <p><strong>Photo Used:</strong> Our Christmas tree. Simple. Handmade. Reusable.</p>
             ]]>
@@ -475,7 +474,7 @@
 <li><strong>Don’t Answer The Question:</strong> Annulling your vote for president or senator or what have you is one thing (still think those annulled votes should have some consequence). But this is a document that will be around for a while (if approved) so good to have an opinion. And also, not voting will expose you to a fine.</li>
 </ol>
 <p>Well, we will have to see how this turns out on the weekend. I’m sure there are many other ways to fuck up a simple yes/no question, but you need to start somewhere. And now you know.</p>
-<p><strong>Photo used: </strong><a href="https://unsplash.com/photos/a-person-is-casting-a-vote-into-a-box-T9CXBZLUvic" target="_blank" rel="noopener noreferrer">unsplash.com</a></p>
+<p><strong>Photo used: </strong><a href="https://unsplash.com/photos/a-person-is-casting-a-vote-into-a-box-T9CXBZLUvic" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">unsplash.com</a></p>
             ]]>
         </content>
     </entry>
