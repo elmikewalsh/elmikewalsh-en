@@ -66,12 +66,6 @@
 <loc>https://www.elmikewalsh.com/articles/tech/</loc>
 </url>
 <url>
-<loc>https://www.elmikewalsh.com/authors/dev/</loc>
-</url>
-<url>
-<loc>https://www.elmikewalsh.com/authors/mike/</loc>
-</url>
-<url>
 <loc>https://www.elmikewalsh.com/bitwarden-keys-to-your-digital-kingdom/</loc>
 <lastmod>2024-09-18T12:30:42-03:00</lastmod>
 <image:image>
@@ -80,8 +74,10 @@
 </image:image>
 </url>
 <url>
-<loc>https://www.elmikewalsh.com/blog/</loc>
-<lastmod>2024-08-28T09:10:18-04:00</lastmod>
+<loc>https://www.elmikewalsh.com/blog/dev/</loc>
+</url>
+<url>
+<loc>https://www.elmikewalsh.com/blog/mike/</loc>
 </url>
 <url>
 <loc>https://www.elmikewalsh.com/chilean-culture-and-heritage-website/</loc>
