@@ -22,7 +22,7 @@
 </url>
 <url>
 <loc>https://www.elmikewalsh.com/a-few-words-about-me/</loc>
-<lastmod>2024-10-21T16:43:30-03:00</lastmod>
+<lastmod>2024-10-22T08:47:03-03:00</lastmod>
 <image:image>
 <image:loc>https://www.elmikewalsh.com/media/posts/62/new-bio-page.webp</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -74,10 +74,8 @@
 </image:image>
 </url>
 <url>
-<loc>https://www.elmikewalsh.com/blog/dev/</loc>
-</url>
-<url>
-<loc>https://www.elmikewalsh.com/blog/elmikewalsh/</loc>
+<loc>https://www.elmikewalsh.com/blog/</loc>
+<lastmod>2024-08-28T09:10:18-04:00</lastmod>
 </url>
 <url>
 <loc>https://www.elmikewalsh.com/chilean-culture-and-heritage-website/</loc>
@@ -130,10 +128,6 @@
 <image:loc>https://www.elmikewalsh.com/media/posts/25/art-of-war-series.webp</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
-</url>
-<url>
-<loc>https://www.elmikewalsh.com/elmikewalsh/</loc>
-<lastmod>2024-10-21T16:48:11-03:00</lastmod>
 </url>
 <url>
 <loc>https://www.elmikewalsh.com/enough/</loc>
@@ -206,6 +200,12 @@
 <image:loc>https://www.elmikewalsh.com/media/posts/50/go-2.webp</image:loc>
 <image:title><![CDATA[Different website views shown on iPad, Macbook and iPhone.]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>https://www.elmikewalsh.com/my/blog/</loc>
+</url>
+<url>
+<loc>https://www.elmikewalsh.com/my/dev/</loc>
 </url>
 <url>
 <loc>https://www.elmikewalsh.com/not-my-faultapp-default/</loc>
