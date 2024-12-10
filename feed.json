@@ -5,6 +5,7 @@
     "home_page_url": "https://www.elmikewalsh.com",
     "feed_url": "https://www.elmikewalsh.com/feed.json",
     "user_comment": "",
+    "icon": "https://www.elmikewalsh.com/media/website/favicon512x512-xs.webp",
     "author": {
         "name": "elmikewalsh"
     },
@@ -65,9 +66,7 @@
                 "name": "elmikewalsh"
             },
             "tags": [
-                   "Tech",
-                   "How To...",
-                   "2024"
+                   "Tech"
             ],
             "date_published": "2024-09-21T19:13:00-03:00",
             "date_modified": "2024-09-23T09:06:23-03:00"
@@ -82,9 +81,7 @@
                 "name": "elmikewalsh"
             },
             "tags": [
-                   "Tech",
-                   "How To...",
-                   "All Articles"
+                   "Tech"
             ],
             "date_published": "2024-07-08T16:14:00-04:00",
             "date_modified": "2024-09-18T12:30:42-03:00"
@@ -100,9 +97,7 @@
             },
             "tags": [
                    "Tech",
-                   "Life &amp; Stuff",
-                   "All Articles",
-                   "2024"
+                   "Life &amp; Stuff"
             ],
             "date_published": "2024-06-28T18:51:00-04:00",
             "date_modified": "2024-09-18T12:30:56-03:00"
@@ -117,8 +112,7 @@
                 "name": "elmikewalsh"
             },
             "tags": [
-                   "Tech",
-                   "All Articles"
+                   "Tech"
             ],
             "date_published": "2024-06-22T09:02:00-04:00",
             "date_modified": "2024-09-18T12:31:00-03:00"
@@ -133,8 +127,7 @@
                 "name": "elmikewalsh"
             },
             "tags": [
-                   "Humor",
-                   "All Articles"
+                   "Humor"
             ],
             "date_published": "2024-03-01T09:06:10-03:00",
             "date_modified": "2024-09-17T10:16:15-03:00"
@@ -149,10 +142,7 @@
                 "name": "elmikewalsh"
             },
             "tags": [
-                   "Tech",
-                   "How To...",
-                   "All Articles",
-                   "2024"
+                   "Tech"
             ],
             "date_published": "2024-02-05T12:05:16-03:00",
             "date_modified": "2024-09-18T12:31:14-03:00"
@@ -168,9 +158,7 @@
             },
             "tags": [
                    "Tech",
-                   "Life &amp; Stuff",
-                   "All Articles",
-                   "2024"
+                   "Life &amp; Stuff"
             ],
             "date_published": "2024-01-30T18:53:00-03:00",
             "date_modified": "2024-09-16T10:48:36-03:00"

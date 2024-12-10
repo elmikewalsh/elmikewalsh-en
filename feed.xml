@@ -140,8 +140,6 @@
         <id>https://www.elmikewalsh.com/wordpress-2024-static-website-generator/</id>
         <media:content url="https://www.elmikewalsh.com/media/posts/57/wordpress-still-best.webp" medium="image" />
             <category term="Tech"/>
-            <category term="How To..."/>
-            <category term="2024"/>
 
         <updated>2024-09-21T19:13:00-03:00</updated>
             <summary></summary>
@@ -265,8 +263,6 @@
         <id>https://www.elmikewalsh.com/bitwarden-keys-to-your-digital-kingdom/</id>
         <media:content url="https://www.elmikewalsh.com/media/posts/56/bitwarden-keys.webp" medium="image" />
             <category term="Tech"/>
-            <category term="How To..."/>
-            <category term="All Articles"/>
 
         <updated>2024-07-08T16:14:00-04:00</updated>
             <summary></summary>
@@ -390,8 +386,6 @@
         <media:content url="https://www.elmikewalsh.com/media/posts/54/squarespace.sucks.webp" medium="image" />
             <category term="Tech"/>
             <category term="Life &amp; Stuff"/>
-            <category term="All Articles"/>
-            <category term="2024"/>
 
         <updated>2024-06-28T18:51:00-04:00</updated>
             <summary></summary>
@@ -429,7 +423,6 @@
         <id>https://www.elmikewalsh.com/the-perplexing-art-of-copywrong/</id>
         <media:content url="https://www.elmikewalsh.com/media/posts/52/perplexing-art-copywrong.webp" medium="image" />
             <category term="Tech"/>
-            <category term="All Articles"/>
 
         <updated>2024-06-22T09:02:00-04:00</updated>
             <summary></summary>
@@ -461,7 +454,6 @@
         <id>https://www.elmikewalsh.com/200000-building-homes-with-gpt-hammer/</id>
         <media:content url="https://www.elmikewalsh.com/media/posts/36/gpt-hammer-2.webp" medium="image" />
             <category term="Humor"/>
-            <category term="All Articles"/>
 
         <updated>2024-03-01T09:06:10-03:00</updated>
             <summary></summary>
@@ -511,9 +503,6 @@
         <id>https://www.elmikewalsh.com/the-art-of-a-good-password/</id>
         <media:content url="https://www.elmikewalsh.com/media/posts/35/lost-my-password.webp" medium="image" />
             <category term="Tech"/>
-            <category term="How To..."/>
-            <category term="All Articles"/>
-            <category term="2024"/>
 
         <updated>2024-02-05T12:05:16-03:00</updated>
             <summary></summary>
@@ -564,8 +553,6 @@
         <media:content url="https://www.elmikewalsh.com/media/posts/34/the-naming-game-2.webp" medium="image" />
             <category term="Tech"/>
             <category term="Life &amp; Stuff"/>
-            <category term="All Articles"/>
-            <category term="2024"/>
 
         <updated>2024-01-30T18:53:00-03:00</updated>
             <summary></summary>
