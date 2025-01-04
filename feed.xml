@@ -3,12 +3,56 @@
     <title>I Write Stuff</title>
     <link href="https://www.elmikewalsh.com/feed.xml" rel="self" />
     <link href="https://www.elmikewalsh.com" />
-    <updated>2024-10-25T08:35:07-03:00</updated>
+    <updated>2025-01-03T21:11:49-03:00</updated>
     <author>
         <name>elmikewalsh</name>
     </author>
     <id>https://www.elmikewalsh.com</id>
 
+    <entry>
+        <title>A Picture Is Worth 1000 Words</title>
+        <author>
+            <name>elmikewalsh</name>
+        </author>
+        <link href="https://www.elmikewalsh.com/a-picture-is-worth-1000-words/"/>
+        <id>https://www.elmikewalsh.com/a-picture-is-worth-1000-words/</id>
+            <category term="Life &amp; Stuff"/>
+
+        <updated>2025-01-03T21:09:46-03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p class="p3">Manu made a good point the other day in his article about <a href="https://manuelmoreale.com/on-featured-images-in-blog-posts" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">adding unnecessary images to articles</a> just to have a photo.<span class="Apple-converted-space">  </span>They say a photo is worth 1,000 words. This year, I will take a shot at typing the 1,000 words, and use photos when necessary.</p>
+<p class="p3">So no banner images on posts just to have one (but I will also try to take - and share - more photos in 2025)</p>
+<p class="p3">Sorry! :)</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>More Typing, Less Thinking</title>
+        <author>
+            <name>elmikewalsh</name>
+        </author>
+        <link href="https://www.elmikewalsh.com/more-typing-less-thinking/"/>
+        <id>https://www.elmikewalsh.com/more-typing-less-thinking/</id>
+            <category term="Life &amp; Stuff"/>
+
+        <updated>2024-12-31T14:10:00-03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p class="p3">So, in some contexts, the phrase “measure twice, cut once” makes sense.<span class="Apple-converted-space">  </span>But sometimes one can think so much that you fail to do anything at all.</p>
+<p class="p3">So this year, I hope to let loose and write more, think less. (Oh crap).<span class="Apple-converted-space">  </span>:)</p>
+<p class="p3">Just have the fingers dance across the keyboard and let it all run out.<span class="Apple-converted-space">  </span>It’s summer in the southern hemisphere, which means it’s hot. And I do not like the heat.</p>
+<p class="p3">Seasons are great - if you are bored with one weather pattern, just give it a bit of time and it will change.</p>
+<p class="p3">It’s wonderful to feel the breeze and hard-core cold wind in your face in the winter.</p>
+<p class="p3">And juuuuust when you’re bored to death with heating the house, spring and summer come around.</p>
+<p class="p3">Still, summer heat sucks: after all, in the winter, you can always put on one more layer of clothes.</p>
+<p class="p3">But in the summer heat, once it’s all off, there’s nowhere left to go.</p>
+<p class="p3">Cheers to you, summer. Now let’s get a move on.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>14 Days In No-Internet Hell</title>
         <author>
@@ -491,104 +535,6 @@
 <p>Still, I suppose that most people will still want to find that magical easy way to make money with little to no effort. I suppose that there are ways to take Chat GPT (which is just a tool, by the way) and apply it to a <strong>new</strong> idea. If you are going to go this route, at least take a route that no one else is going.</p>
 <p>I, for one, have applied ChatGPT to our toolbox and it now builds houses automatically. I’ve written a Python script to post the houses on the internet, so they just basically sell themselves.  :)</p>
 <p><strong>Photo Used:</strong> <a href="https://unsplash.com/photos/white-and-gray-metal-pipe-8pgK7WMSnXs" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">unsplash.com</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>How to Create a Good Password</title>
-        <author>
-            <name>elmikewalsh</name>
-        </author>
-        <link href="https://www.elmikewalsh.com/the-art-of-a-good-password/"/>
-        <id>https://www.elmikewalsh.com/the-art-of-a-good-password/</id>
-        <media:content url="https://www.elmikewalsh.com/media/posts/35/lost-my-password.webp" medium="image" />
-            <category term="Tech"/>
-
-        <updated>2024-02-05T12:05:16-03:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.elmikewalsh.com/media/posts/35/lost-my-password.webp" class="type:primaryImage" alt="" /></p>
-                <div class="post__toc">
-<h3>Table of Contents</h3>
-<ul>
-<li><a href="#mcetoc_1hvnmsk5313">Choose a free password manager</a></li>
-<li><a href="#mcetoc_1hvnmsk5314">Create a strong master password</a></li>
-<li><a href="#mcetoc_1hvnmsk5315">Import existing passwords</a></li>
-<li><a href="#mcetoc_1hvnmsk5316">Automatically store new passwords</a></li>
-<li><a href="#mcetoc_1hvnmsk5317">Create New Passwords</a></li>
-</ul>
-</div>
-<p>It’s 2024 - if you are still using a basic password like <em>password1234</em> (shame on you) or using the same password for all your online accounts, you are just begging for a world of digital (and real-life) hurt.</p>
-<p>It can be a bit intimidating for people to start using a password manager, but put simply: would you prefer to take a bit of time now to set up a small program you can use for free and anywhere, so your passwords are safe, or are you the type that prefers to call banks in a rush to cancel cards, send support emails to companies explaining you were hacked while waiting impatiently for a reply?  If you are the first group - read on!</p>
-<hr>
-<h3 id="mcetoc_1hvnmsk5313">Choose a free password manager</h3>
-<p>First you need to choose one. There are all sorts of free and paid options, but there are two options that are more than enough for your needs, and both are free:</p>
-<ul>
-<li><a href="https://bitwarden.com/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Bitwarden</a></li>
-<li><a href="https://proton.me/pass" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Proton Pass</a></li>
-</ul>
-<p>The choice is yours - I had access to Bitwarden first so mainly use that. The design is a bit dated. Proton Pass, on the other hand, is much nicer to look at, but not as mature a product as Bitwarden. Anyways, choose one and install. Then, the next step is the most important:</p>
-<h3>Create a strong master password</h3>
-<p>A good password manager will require you set up a master password, to access the password manager. A good password manager will also NOT store your master password. As a result, should you lose or forget it, you will not be able to retrieve it or request the company send it to you. You also will not be able to generate a new one. So THIS password is one that will have to be a good one and also one that you can remember. (This is the step that will burn you later on if you don’t think about it for just a bit).</p>
-<h3 id="mcetoc_1hvnmsk5315">Import existing passwords</h3>
-<p>If you have passwords saved in your browser, many free password managers allow you to import them. This is a good idea and will save time. Go for it!</p>
-<h3 id="mcetoc_1hvnmsk5316">Automatically store new passwords</h3>
-<p>Let the password manager automatically store new passwords when you log in. </p>
-<h3 id="mcetoc_1hvnmsk5317">Create New Passwords</h3>
-<p>Use the Password Manager to manually generate new passwords and also check if your password is found in a data breach. Some password managers, like Bitwarden, will let you easily set a password length (40, 50, even 100 characters). These will be passwords that you are likely unable to ever memorize. However, it isn’t necessary - as long as you remember the master password you set up in step #2, you’ll have access to it.  It also doesn’t matter what browser you use, as there is an extension that you can install and use on your computer, phone, etc.</p>
-<p>Quick easy steps. In 2024 there is no excuse for using a poor password. You can take a small amount of time now to peacefully set up a password manager…. or a lot more (and stressful) time later on.</p>
-<p>Good luck!</p>
-<p><strong>Photo used:</strong> <a href="https://pixabay.com/illustrations/security-professional-secret-5199236/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">pixabay.com</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The Naming Game</title>
-        <author>
-            <name>elmikewalsh</name>
-        </author>
-        <link href="https://www.elmikewalsh.com/the-naming-game/"/>
-        <id>https://www.elmikewalsh.com/the-naming-game/</id>
-        <media:content url="https://www.elmikewalsh.com/media/posts/34/the-naming-game-2.webp" medium="image" />
-            <category term="Tech"/>
-            <category term="Life &amp; Stuff"/>
-
-        <updated>2024-01-30T18:53:00-03:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.elmikewalsh.com/media/posts/34/the-naming-game-2.webp" class="type:primaryImage" alt="" /></p>
-                <p>Presenting yourself on the internet can be rather complicated. Especially when you add the factor of a multilanguage website.  Domain name availability, the ability to pronounce / spell a name are all factors.</p>
-<p>Recently I’ve put what I believe to be the final touches (for now, at least) on my personal website setup.  Originally, I went with one domain name and a subdomain for English speakers. It looked something like this:</p>
-<ul>
-<li>elmikewalsh.com</li>
-<li>en.elmikewalsh.com</li>
-</ul>
-<p>That’s all fine and well…. In an English-speaking setting. No one would have problems spelling “mike”, “Walsh” is tough to screw up, and despite “el” being from Spanish, most English speakers would get the idea.</p>
-<p>Unfortunately, in a Spanish-speaking content, it’s not so easy. Here’s the pitfalls I experienced:</p>
-<ul>
-<li><strong>Mike:</strong>  In Chile at least, you get “Maik”, “Maikol" or “Mike”.  So there’s a 1 in 3 chance that part will be spelled correctly.</li>
-<li><strong>Walsh:</strong> Spanish (and other Romance languages) have a nice flow of consonants and vowels.  My last name does not. So about 100% of the time it is reduced to spelling it out.</li>
-<li><strong>El: </strong>No problems in Spanish land with this one.</li>
-</ul>
-<hr>
-<p>So, having to spell out m-i-k-e-w-a-l-s-h to share my domain name or email address sucks.  Especially by phone.</p>
-<blockquote>
-<p>Good test for choosing your name/email/whatever btw - if you can say it in a phone conversation and the other person can note it, you’re doing well.</p>
-</blockquote>
-<p><strong>Here’s how I got around it:</strong></p>
-<ol>
-<li>I have two separate domain names  - it’s as short as possible and only the extensions are different.</li>
-<li>For Spanish speakers (and a slight search results boost by using a ccTLD) I can be found at - <a href="https://www.elmike.cl" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">elmike.cl</a></li>
-<li>For the English version of my personal site I went with - elmike.me (you are here)</li>
-<li>For personal email I went with the .me version, since .me works well in Spanish as well.  It’s also easier to say, as “cl” is unpronounceable and you end up saying each letter.</li>
-<li>Also by eliminating my last name, a Spanish-speaker is just left with “mike”.  For the Spanish-speaker (Chilean) that can’t spell it (quite a few it seems) I can say, “Mike. Mee-Kay-con-Ka) and that will work 99% of the time.</li>
-</ol>
-<p>And for the other 1% electronic communication might be a whole different issue.</p>
-<hr>
-<p>The original <a href="https://www.elmikewalsh.com" target="_blank" rel="noopener noreferrer">elmikewalsh.com</a> domain?  I put together a neat starry night landing/splash page with two photos of myself linked to the Spanish and English versions of my personal sites.</p>
-<p>And that’s all I have to say about that.</p>
             ]]>
         </content>
     </entry>
