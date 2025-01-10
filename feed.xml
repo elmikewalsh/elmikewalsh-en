@@ -3,7 +3,7 @@
     <title>I Write Stuff</title>
     <link href="https://www.elmikewalsh.com/feed.xml" rel="self" />
     <link href="https://www.elmikewalsh.com" />
-    <updated>2025-01-10T20:30:45-03:00</updated>
+    <updated>2025-01-10T20:33:25-03:00</updated>
     <author>
         <name>elmikewalsh</name>
     </author>
@@ -22,22 +22,32 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <p>I imagine most people just fire up their trusty Gmail account, check and send mail, and call it a day.  But when you think about changing to a service that doesn't openly read and spy on your email, it begins to turn into a lot of work.</p>
+                <div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1ih991dk93u">Proton</a></li>
+<li><a href="#mcetoc_1ih991dk93v">Fastmail</a></li>
+<li><a href="#mcetoc_1ih991dk940">Purelymail</a></li>
+<li><a href="#mcetoc_1ih991dk941">MXRoute</a></li>
+<li><a href="#mcetoc_1ih991dk942">iCloud Mail</a></li>
+</ul>
+</div>
+<p>I imagine most people just fire up their trusty Gmail account, check and send mail, and call it a day.  But when you think about changing to a service that doesn't openly read and spy on your email, it begins to turn into a lot of work.</p>
 <p>My head is to the point it might actually explode. I could go into a lot of detail about each service I encountered, tried and discarded. I'm happy to say that the crusade is coming to an end. On that note, I wanted to share a bit of my findings, in the hopes that it might help other people who are looking for a good, reliable service.</p>
 <p><strong>Quick Context:</strong> I am not looking for a high threat-model, military-grade encrypted email. I am looking for a service that will offer general encryption from a company that won't spy on me, or charge me a fortune. Here's what I have found, and my opinions:</p>
-<h3>Proton</h3>
+<h3 id="mcetoc_1ih991dk93u">Proton</h3>
 <p>Had this email set up for family. Actually, I can only say good things about the service offered. The problem? Once it was decided that the offering was more than we were willing to pay, the migration began - as well as the problems:</p>
 <ul>
 <li>As an organization, I could export all member email except for my own. It turns out it threw up an unknown error, and support finally said it was a really rare issue that was unlikely to be fixed. So instead of receiving an easy-to-use MBOX output, I had to export EML files and import them into the next service. </li>
 <li>Once we canceled our plan (Visionary, no less) they confirmed cancellation, but secretly downgraded us to an Unlimited plan. Was not expecting to be charged again, and had to go in and cancel a second time. That is terrible service.</li>
 </ul>
-<h3>Fastmail</h3>
+<h3 id="mcetoc_1ih991dk93v">Fastmail</h3>
 <p>Fastmail offered a Family plan, which was a reasonable price. Setup was nice and quick. I can't really think of much to say. I did not like the mobile app because of things like Notes, Calendar, Files, being there, and there is no function to remove them. Fastmail was "meh" - can't really say I enjoy them, or not. Might be for you. Not for me.</p>
-<h3>Purelymail</h3>
+<h3 id="mcetoc_1ih991dk940">Purelymail</h3>
 <p>Great setup, easy, really reasonable pricing ($10/year) for unlimited space, domains, email accounts. Backend is ugly as sin, and if you are not proficient in setting up DNS records, this is not for you.</p>
-<h3>MXRoute</h3>
+<h3 id="mcetoc_1ih991dk941">MXRoute</h3>
 <p>Checking this one out, this may be what I am looking for. I'll update this once I learn more.</p>
-<h3>iCloud Mail</h3>
+<h3 id="mcetoc_1ih991dk942">iCloud Mail</h3>
 <p>I really want to like this one. I really do. I will go into detail why I can't later. For me, it has to do with multiple domain emails and really wanting a separate inbox for each one.</p>
 <hr>
 <p>Ok that's my rant for now. Thanks, hope it's of help, and will update as time permits.</p>
