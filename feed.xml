@@ -3,12 +3,40 @@
     <title>I Write Stuff</title>
     <link href="https://www.elmikewalsh.com/feed.xml" rel="self" />
     <link href="https://www.elmikewalsh.com" />
-    <updated>2025-01-10T20:33:25-03:00</updated>
+    <updated>2025-01-21T17:49:57-03:00</updated>
     <author>
         <name>elmikewalsh</name>
     </author>
     <id>https://www.elmikewalsh.com</id>
 
+    <entry>
+        <title>Fuck You, Microsoft</title>
+        <author>
+            <name>elmikewalsh</name>
+        </author>
+        <link href="https://www.elmikewalsh.com/fuck-you-microsoft/"/>
+        <id>https://www.elmikewalsh.com/fuck-you-microsoft/</id>
+            <category term="Tech"/>
+
+        <updated>2025-01-19T17:49:00-03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p class="p1">I’m sure many people have said that before. I’m not one to rail against companies for being large, faceless, cold, and motivated only by money.<span class="Apple-converted-space">  </span>I used Microsoft products and worked on Windows for over 30 years. I can’t really say I have a personal feeling about them one way or the other.</p>
+<p class="p1">However, they recently decided to increase their Microsoft 365 prices, for Basic and Family plans. Ok, that in itself is nothing new, as companies do that from time to time, maybe even for reasonable excuses.</p>
+<p class="p1">But the way in which it is being implemented is terrible and shows no consideration for the consumer.</p>
+<p class="p1">This article from Tom’s Guide provides the scoop - <a href="https://www.tomsguide.com/computing/microsoft-365-gets-massive-45-percent-price-hike-and-its-all-to-do-with-ai-tools" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">https://www.tomsguide.com/computing/microsoft-365-gets-massive-45-percent-price-hike-and-its-all-to-do-with-ai-tools</a></p>
+<p class="p1">I take exception to (many things people say/write), but particularly the following:</p>
+<blockquote>
+<p class="p1">“Microsoft will increase the prices of Microsoft 365 Personal and Family in the U.S. by $3 per month or $30 for annual subscriptions. It's the first price hike since 365 launched, <strong>but the good news is users don't have to opt-in for the AI upgrade.</strong>”</p>
+</blockquote>
+<p class="p1">Read that again: “<strong>But the good news is users don't have to opt-in for the AI upgrade.</strong>” Ok, so the good news is that a half-baked AI implementation that no one wants is being forced upon me, and I do not have to take any action to pay more for it.</p>
+<p class="p1">If I would rather NOT have this “feature”, then I have to jump through hoops to NOT have it. What great news! Work to not get charged for crap.</p>
+<p class="p1">I used to not care one way or the other, but now….</p>
+<p class="p1"><strong>Fuck you, Microsoft.</strong></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Email Services: A Rant</title>
         <author>
@@ -500,37 +528,6 @@
 <h3 id="mcetoc_1i22ic36dad"><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r22:" data-state="closed"><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r23:" data-state="closed">Down With Squarespace</span></span></h3>
 <p><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r22:" data-state="closed"><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r24:" data-state="closed">Terrible for anyone who wants to be organize their domains efficiently, Squarespace has a remarkably inefficient domain transfer procedure and near non-existent support. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r25:" data-state="closed">If you're looking for a domain registrar option, Cloudflare is a great one. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r26:" data-state="closed">They have been professional, responsive, and a pleasure to deal with. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r27:" data-state="closed">It’s hip to be square, perhaps, but not to be Squarespace.</span></span></p>
 <p><strong>Photo Used:</strong> <a href="https://www.pexels.com/photo/back-view-of-man-carrying-a-backpack-with-arms-raised-doing-the-middle-finger-2618605/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">pexels.com</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The Perplexing Art of Copywrong</title>
-        <author>
-            <name>elmikewalsh</name>
-        </author>
-        <link href="https://www.elmikewalsh.com/the-perplexing-art-of-copywrong/"/>
-        <id>https://www.elmikewalsh.com/the-perplexing-art-of-copywrong/</id>
-        <media:content url="https://www.elmikewalsh.com/media/posts/52/perplexing-art-copywrong.webp" medium="image" />
-            <category term="Tech"/>
-
-        <updated>2024-06-22T09:02:00-04:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.elmikewalsh.com/media/posts/52/perplexing-art-copywrong.webp" class="type:primaryImage" alt="Image of a red copyright symbol" /></p>
-                <h3>Perplexity, copyrights and citing your work - the good ol' days</h3>
-<p>AI is in the news. In daily conversations. In your social media feeds (if you do that still).  AI is the digital magic wand that will make all your dreams come true: construct your code, paint your pictures and write your articles.  Or, at least, in some cases it will write your articles. In other cases, it will simply steal them from people who already wrote them (do people still write things on the internet?)</p>
-<h3>How Confusing: Perplexity</h3>
-<p>In case you haven’t heard, the latest scandal involves the company Perplexity, which, in summary, was caught copying articles that were not theirs and not attributing the source of the articles. I won’t summarize, as the company is not worth the time. You can catch up on it here. <a href="https://www.fastcompany.com/91144894/perplexity-ai-ceo-aravind-srinivas-on-plagiarism-accusations" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">https://www.fastcompany.com/91144894/perplexity-ai-ceo-aravind-srinivas-on-plagiarism-accusations</a></p>
-<p>In summary, it is the digital equivalent of going to a store, shoplifting a product, changing the label, and selling it in your store.  Amazing business model! Why didn’t anyone think of that before.</p>
-<h3>Old School Accreditation</h3>
-<p>Being a bit older, I am reminded of famous musical acts such as Milli Vanilli (side note: tragic story. search for it on the internet. You might even find an original journalistic note, rather than regurgitated AI tripe). Or just click here - <a href="https://en.wikipedia.org/wiki/Milli_Vanilli" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">https://en.wikipedia.org/wiki/Milli_Vanilli</a></p>
-<p>Why is Milli Vanilli famous?  Mainly for supposedly singing when they weren’t.</p>
-<p>Back in the day, claiming something was yours when it wasn’t was not well received.</p>
-<p>Today, however, it is apparently a very successful business model.</p>
-<p>I remember back in school if you turned in an assignment without attributing your sources, you received a 0.</p>
-<p>Maybe that should remain the model to follow?</p>
-<p><strong>Photo Used:</strong> <span class="s1"><a href="https://pixabay.com/illustrations/internet-copyright-protection-1013675/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">pixabay.com</a></span></p>
             ]]>
         </content>
     </entry>
