@@ -3,12 +3,40 @@
     <title>I Write Stuff</title>
     <link href="https://www.elmikewalsh.com/feed.xml" rel="self" />
     <link href="https://www.elmikewalsh.com" />
-    <updated>2025-01-21T17:49:57-03:00</updated>
+    <updated>2025-01-29T14:16:39-03:00</updated>
     <author>
         <name>elmikewalsh</name>
     </author>
     <id>https://www.elmikewalsh.com</id>
 
+    <entry>
+        <title>Bariloche: From Top to Bottom</title>
+        <author>
+            <name>elmikewalsh</name>
+        </author>
+        <link href="https://www.elmikewalsh.com/bariloche-from-top-to-bottom/"/>
+        <id>https://www.elmikewalsh.com/bariloche-from-top-to-bottom/</id>
+            <category term="Photos"/>
+
+        <updated>2025-01-25T13:46:00-03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p>Took a family trip in November 2024 over the mountains to Bariloche, Argentina. Sharing some photos from the top of Otto Hill, as well as a few other locations. November is a great time to go (for weather and lack of tourists)</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://www.elmikewalsh.com/media/posts/73/gallery/IMG_2465.webp" data-size="1613x907"><img src="https://www.elmikewalsh.com/media/posts/73/gallery/IMG_2465-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.com/media/posts/73/gallery/IMG_2480.webp" data-size="1613x907"><img src="https://www.elmikewalsh.com/media/posts/73/gallery/IMG_2480-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.com/media/posts/73/gallery/IMG_2481.webp" data-size="1613x907"><img src="https://www.elmikewalsh.com/media/posts/73/gallery/IMG_2481-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.com/media/posts/73/gallery/IMG_2486.webp" data-size="1613x907"><img src="https://www.elmikewalsh.com/media/posts/73/gallery/IMG_2486-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.com/media/posts/73/gallery/IMG_2487.webp" data-size="1613x907"><img src="https://www.elmikewalsh.com/media/posts/73/gallery/IMG_2487-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.com/media/posts/73/gallery/IMG_2490.webp" data-size="1613x907"><img src="https://www.elmikewalsh.com/media/posts/73/gallery/IMG_2490-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.com/media/posts/73/gallery/IMG_2491.webp" data-size="1613x907"><img src="https://www.elmikewalsh.com/media/posts/73/gallery/IMG_2491-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.com/media/posts/73/gallery/IMG_2501.webp" data-size="1613x907"><img src="https://www.elmikewalsh.com/media/posts/73/gallery/IMG_2501-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+</div></div>
+<p class="align-center"><em>Bariloche, Argentina.</em></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Fuck You, Microsoft</title>
         <author>
@@ -490,44 +518,6 @@
 </blockquote>
 <p>I hope this has been of help!</p>
 <p><strong>Photo Used:</strong> <a href="https://unsplash.com/photos/a-pile-of-keys-sitting-on-top-of-a-table-r8VbpgMS6Uc" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">unsplash.com</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Squarespace Sucks</title>
-        <author>
-            <name>elmikewalsh</name>
-        </author>
-        <link href="https://www.elmikewalsh.com/squarespace-sucks/"/>
-        <id>https://www.elmikewalsh.com/squarespace-sucks/</id>
-        <media:content url="https://www.elmikewalsh.com/media/posts/54/squarespace.sucks.webp" medium="image" />
-            <category term="Tech"/>
-            <category term="Life &amp; Stuff"/>
-
-        <updated>2024-06-28T18:51:00-04:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.elmikewalsh.com/media/posts/54/squarespace.sucks.webp" class="type:primaryImage" alt="Image of person with two middle fingers up." /></p>
-                <div class="post__toc">
-<h3>Table of Contents</h3>
-<ul>
-<li><a href="#mcetoc_1i22ic36daa">Why Squarespace Suck</a></li>
-<li><a href="#mcetoc_1i22ic36dab">Easy As In &amp; Out</a></li>
-<li><a href="#mcetoc_1i22ic36dac">Glacially Slow Support</a></li>
-<li><a href="#mcetoc_1i22ic36dad">Down With Squarespace</a></li>
-</ul>
-</div>
-<h3 id="mcetoc_1i22ic36daa">Why Squarespace Suck</h3>
-<p><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r16:" data-state="closed">When Google Domains sold out to Squarespace, I felt it was time to shift all my domains to another hosting company. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r17:" data-state="closed">I had no idea that such a decision would pull me into one of the most irritating experiences I’ve had in quite sometime. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r18:" data-state="closed">Here’s why Squarespace sucks:</span></p>
-<h3 id="mcetoc_1i22ic36dab"><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r19:" data-state="closed">Easy As In &amp; Out</span></h3>
-<p><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r19:" data-state="closed"><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1a:" data-state="closed">Domain transfers should not be very complicated. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1b:" data-state="closed">It was such a piece of cake when Google Domains was in charge of it. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1c:" data-state="closed">They would just email you and literally just click a link and your domain transfer is done and confirmed. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1d:" data-state="closed">But under Squarespace? </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1e:" data-state="closed">Forget it. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1f:" data-state="closed">They take five days (!) to complete a domain transfer, which would piss off anyone who values time. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1g:" data-state="closed">Yes, five days. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1h:" data-state="closed">That is nothing short of a lifetime in Internet years. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1i:" data-state="closed">It seems like Squarespace just throws up this obstacle to convince you to stay. For all its issues, at least Google kept it simple and efficient.</span></span></p>
-<h3 id="mcetoc_1i22ic36dac">Glacially Slow Support</h3>
-<p><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1l:" data-state="closed">A word about customer support with Squarespace: if you ever need help from these guys, be patient. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1m:" data-state="closed">And wait. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1n:" data-state="closed">And wait some more. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1o:" data-state="closed">Their email and chat support team were terrible. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1p:" data-state="closed">The communication was poor, and it took days to get a reply from them. In domain transfers, you need a quick reply. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1q:" data-state="closed">However, going by some of their practices, it is apparent that Squarespace has no idea what they're doing.</span></p>
-<p><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1s:" data-state="closed">Ever since I realized that Google Domains was for sale, I began migrating my domains away from it. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1t:" data-state="closed">My escape route? </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1u:" data-state="closed"><a href="https://www.cloudflare.com" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Cloudflare</a>. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r1v:" data-state="closed">No joke - it has been, for me at least, one of the most delightful experiences I have had (I mention them, <a href="https://www.elmikewalsh.com/not-my-faultapp-default/">and other tech recommendations here</a>). Here’s why: </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r20:" data-state="closed">Not only is the transfer process streamlined, it is secure and offers great domain options. There’s also the no-price markup. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r21:" data-state="closed">Continuing with Cloudflare is simple, as I know up-front the costs I will get hit with: no yearly surprises here.</span></p>
-<h3 id="mcetoc_1i22ic36dad"><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r22:" data-state="closed"><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r23:" data-state="closed">Down With Squarespace</span></span></h3>
-<p><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r22:" data-state="closed"><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r24:" data-state="closed">Terrible for anyone who wants to be organize their domains efficiently, Squarespace has a remarkably inefficient domain transfer procedure and near non-existent support. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r25:" data-state="closed">If you're looking for a domain registrar option, Cloudflare is a great one. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r26:" data-state="closed">They have been professional, responsive, and a pleasure to deal with. </span><span aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r27:" data-state="closed">It’s hip to be square, perhaps, but not to be Squarespace.</span></span></p>
-<p><strong>Photo Used:</strong> <a href="https://www.pexels.com/photo/back-view-of-man-carrying-a-backpack-with-arms-raised-doing-the-middle-finger-2618605/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">pexels.com</a></p>
             ]]>
         </content>
     </entry>
