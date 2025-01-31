@@ -3,12 +3,43 @@
     <title>I Write Stuff</title>
     <link href="https://www.elmikewalsh.com/feed.xml" rel="self" />
     <link href="https://www.elmikewalsh.com" />
-    <updated>2025-01-30T10:19:48-03:00</updated>
+    <updated>2025-01-31T19:56:14-03:00</updated>
     <author>
         <name>elmikewalsh</name>
     </author>
     <id>https://www.elmikewalsh.com</id>
 
+    <entry>
+        <title>Your Email - It’s Not &quot;Swiss Safe&quot;</title>
+        <author>
+            <name>elmikewalsh</name>
+        </author>
+        <link href="https://www.elmikewalsh.com/your-email-its-not-swiss-safe/"/>
+        <id>https://www.elmikewalsh.com/your-email-its-not-swiss-safe/</id>
+            <category term="Tech"/>
+
+        <updated>2025-01-31T19:56:14-03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <h3>If It's Swiss, It's Secure - Swiss Cheese has holes In It, and so does this idea.</h3>
+<p>I’ve recently had the pleasure (torture) of studying in-depth many, many, many free and paid email solutions, looking for the perfect solution for family, personal and work. As a bit of context, after waking up the need to leave Google for privacy concerns (my phone does not have a single Google application - yay!).<span class="Apple-converted-space">  </span>I went first to <a href="https://proton.me/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Proton</a> and stayed there for about a year, as a Visionary client (when I go in, it’s all in).</p>
+<p class="p1">In the end, I can’t say that Proton was bad, just way more than I needed, and way more expensive than I wanted. Though I will note that exporting out of Proton, and the subsequent attempt to downgrade my account to Unlimited from Visionary, rather than canceling, was quite evil.</p>
+<blockquote>
+<p class="p1">(when making high-tier customers press CANCEL, btw, don’t secretly downgrade me to a lesser plan and charge me. I will expose you here for the dozens of bots and half-dozen people who visit to see)</p>
+</blockquote>
+<p class="p1">Anyways, in my search for the “perfect” email company for me, I came across a number of companies that pushed the idea that “our servers are in XYZ country (usually Switzerland) and so your data is completely safe. Laws here protect your privacy. (In one famous and extreme case, your data is stored in underground bunkers impervious to nuclear attacks. Good to know in the case all life on the planet is screwed, my email is safe).</p>
+<p class="p1">Here’s the thing about the above argument (not the bunker) - your data is only safe if the laws protecting them in that country never change. Ever.<span class="Apple-converted-space">  </span>In the case the government changes, or new laws are passed, or your country is invaded, your laws and Swiss protection don’t mean anything at all.</p>
+<p class="p1">So, not really sure why you would push that as a sales point.</p>
+<p class="p1">Maybe you are relying on the tradition argument - <em>“Our country has never….”</em><span class="Apple-converted-space">  </span>or <em>“We would never….”</em></p>
+<p class="p1">I’m not saying that the services that promote this are bad email companies. Far from it; most of them are pretty good.</p>
+<p class="p1">For those who are attracted by the privacy laws argument, just turn on the toxic world news and count how many countries and governments are now doing things that haven’t been done before. Things that they would “never do”.</p>
+<p class="p1">And I’m thinking about the democratically run countries.</p>
+<p class="p1">My point (if any)?</p>
+<p class="p1"><strong>Your information is not secure or private just because it is in a specific country or region. Privacy and security has much more to do with encryption than location.</strong></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Bariloche: From Top to Bottom</title>
         <author>
@@ -395,128 +426,6 @@
 <hr>
 <p>Thank you for making it this far! I hope this guide was useful. In a follow-up article I will show you how to deploy that new static website directly to GitHub, so you can have a simple, fast, safe and free (hosting) website!</p>
 <p><strong>Photo Used:</strong> <a href="https://pixabay.com/illustrations/wordpress-cms-1810453/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">pixabay.com</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Using Bitwarden: Keys to your Digital Kingdom</title>
-        <author>
-            <name>elmikewalsh</name>
-        </author>
-        <link href="https://www.elmikewalsh.com/bitwarden-keys-to-your-digital-kingdom/"/>
-        <id>https://www.elmikewalsh.com/bitwarden-keys-to-your-digital-kingdom/</id>
-        <media:content url="https://www.elmikewalsh.com/media/posts/56/bitwarden-keys.webp" medium="image" />
-            <category term="Tech"/>
-
-        <updated>2024-07-08T16:14:00-04:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.elmikewalsh.com/media/posts/56/bitwarden-keys.webp" class="type:primaryImage" alt="A pile of keys on a dark background." /></p>
-                <div class="post__toc">
-<h3>Table of Contents</h3>
-<ul>
-<li><a href="#mcetoc_1i2a0d7olrr">Why Would I Bother?</a></li>
-<li><a href="#mcetoc_1i2a0d7olrs">Getting Started with Bitwarden: Your First Password Manager</a></li>
-<li><a href="#mcetoc_1i2a0d7olrt">Step 1: Visit the Bitwarden Website</a></li>
-<li><a href="#mcetoc_1i2a0d7olru">Step 2: Download the Software</a></li>
-<li><a href="#mcetoc_1i2a0d7olrv">Step 3: Create Your Account</a></li>
-<li><a href="#mcetoc_1i2a0d7ols0">Step 4: Verify Your Email</a></li>
-<li><a href="#mcetoc_1i2a0d7ols1">Step 5: Log In and Set Up Your Vault</a></li>
-<li><a href="#mcetoc_1i2a0d7ols2">Step 6: Add Your First Item</a></li>
-<li><a href="#mcetoc_1i2a0d7ols3">Step 7: Organize Your Vault</a></li>
-<li><a href="#mcetoc_1i2a0d7ols4">Step 8: Install Browser Extensions</a></li>
-<li><a href="#mcetoc_1i2a0d7ols5">Step 9: Import Existing Passwords</a></li>
-<li><a href="#mcetoc_1i2a0d7ols6">Step 10: Enable Two-Factor Authentication</a></li>
-<li><a href="#mcetoc_1i2a0d7ols7">Step 11: Sync Across Devices</a></li>
-<li><a href="#mcetoc_1i2a0d7ols8">Step 12: Explore Advanced Features</a></li>
-<li><a href="#mcetoc_1i2a0d7ols9">You Did It!</a></li>
-</ul>
-</div>
-<h3 id="mcetoc_1i2a0d7olrr">Why Would I Bother?</h3>
-<p>In 2024, using a password manager is super important – almost vital.  Since nearly everything is done online — from banking to bowel movements (well, not quite yet), social media and shopping — individuals are more exposed to potential data breaches than ever before. It's very important to <a href="https://www.elmikewalsh.com/defending-your-cybercastle-digital-art-of-war/">defend your cybercastle</a> (pardon the ridiculous illustration) from people who like to stick their fingers where they don't belong.</p>
-<p>Password managers offer a secure solution by generating complex, unique passwords for each of your accounts, reducing the risk of using easily guessed or reused passwords across multiple sites. This practice not only strengthens personal security but also shields against credential stuffing attacks, where hackers use compromised passwords from one site to access others (which is a complex way of saying that if hackers get your password from one data breach, they can try all your accounts, in case you use the same password everywhere).</p>
-<p>As we open accounts and use services on more and more sites, maintaining a consistent level of security becomes challenging without a password manager. These tools not only store passwords securely but also simplify the login process across different devices, enhancing both convenience and security. By centralizing password management, users can focus on their activities online without the constant worry of remembering or securing multiple passwords manually.</p>
-<p>I was, like you, hesitant to start, thinking that it would be difficult, complicated and a lot of work (and I like tech stuff). I went with <a href="https://bitwarden.com" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Bitwarden</a> because it had great reviews AND …..it was (and is) free. If you like this, you can <a href="https://www.elmikewalsh.com/not-my-faultapp-default/">check out a list of other software / services I recommend</a>.</p>
-<h3 id="mcetoc_1i2a0d7olrs">Getting Started with Bitwarden: Your First Password Manager</h3>
-<p>Ok, so you’re considering setting up this complex and terrifying “password manager”.  Before we begin, it might help to simplify the idea of a “password manager” a bit. Imagine that over the course of your day you had to unlock 40 doors with physical keys. Each key if different. And good thing; if all 40 locks used the same key, you could imagine what would happen if you lost one, right?</p>
-<p>Using the same password on your email, bank, social media, Netflix account, etc, is like using one physical key to open all your locks. Good luck to you if you lose your key or someone steals it to make themselves a copy.</p>
-<p>What if you had a small piece of FREE software that you could use anywhere you went (your browser – you like Firefox? Prefer Safari?  Browse with Brave? Opera?  Chrome (ewwww) – this software is available for all those browsers. Doesn’t matter if you use Windows, Mac, even Linux. Android phone? Check. iPhone? Check.</p>
-<p>Bitwarden is one such program. (there are others, but we’re looking at this one).</p>
-<p>What if, using this FREE software, you could create just ONE safe complex password and only have to remember that one password. Because once you open your Bitwarden with that password, all your other passwords are safely waiting inside. And those passwords could be super safe and super long. (Maybe 30, 40, 60 characters long; a hideous mix of letters, numbers, capitalization, etc). You wouldn’t ever have to think of a new and safe password again, because the program automatically generates one for you.</p>
-<p>Bitwarden does that. Interested? This takes a bit of time to set up, but once complete, you’re good to go. I took the leap. Take a little to get used to it.  But it’s soooooo much better.  Follow along:</p>
-<h3 id="mcetoc_1i2a0d7olrt">Step 1: Visit the Bitwarden Website</h3>
-<p>Head over to <a href="https://bitwarden.com" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Bitwarden's official website</a>. You can poke around and learn about the product, the company, etc. But we’re here for the free software, so let’s continue….</p>
-<h3 id="mcetoc_1i2a0d7olru">Step 2: Download the Software</h3>
-<p>Once on the Bitwarden homepage, click on the “Download” button in the top navigation bar. You’ll be taken to a page with various download options. Bitwarden is available on multiple platforms including Windows, macOS, Linux, iOS, and Android. Choose the platform that suits your needs and follow the instructions to download the app.</p>
-<p>For instance, if you’re using Windows:</p>
-<ol>
-<li>Click on the “Windows” icon.</li>
-<li>The download will start automatically.</li>
-<li>Once the download is complete, open the installer file and follow the on-screen instructions to install Bitwarden on your computer.</li>
-</ol>
-<h3 id="mcetoc_1i2a0d7olrv">Step 3: Create Your Account</h3>
-<p>After installing Bitwarden, open the application. You’ll be prompted to create an account. Here’s how to do it:</p>
-<ol>
-<li>Click on the “Create Account” button.</li>
-<li>Fill in your email address, a strong master password, and your name. Make sure your master password is something you can remember but also something that’s hard for others to guess. Bitwarden will help you gauge the strength of your password.</li>
-<li>Confirm your password and click “Submit”.</li>
-</ol>
-<blockquote>
-<p>A super super important note at this step that I’ll repeat a few times – make sure your MASTER PASSWORD is something you will remember easily. Part of the reason Bitwarden is so secure is that they do not know your password. They don’t have access and they can’t send you a link to reset it. You can change the password later, but you will need to know the current password. Your master password cannot be recovered if you forget it! <span style="color: #ba372a;"><strong>So if you forget your MASTER PASSWORD, you’re screwed; you can’t get in, you can’t recover your password.</strong></span> Please make sure you choose a MASTER PASSWORD you will remember. PAY CLOSE ATTENTION TO THIS STEP!</p>
-</blockquote>
-<h3 id="mcetoc_1i2a0d7ols0">Step 4: Verify Your Email</h3>
-<p>Bitwarden will send a verification email to the address you provided. Check your inbox and click on the verification link in the email. This step is crucial for securing your account.</p>
-<h3 id="mcetoc_1i2a0d7ols1">Step 5: Log In and Set Up Your Vault</h3>
-<p>With your account verified, log in to Bitwarden with your email and master password. You’ll now enter your vault, the secure place where all your passwords will be stored.</p>
-<h3 id="mcetoc_1i2a0d7ols2">Step 6: Add Your First Item</h3>
-<p>To add your first password:</p>
-<ol>
-<li>Click on the “+” button or the “Add Item” button.</li>
-<li>You’ll be prompted to enter the name of the item (e.g., Gmail, Facebook), the username, and the password. If you don’t have a strong password yet, Bitwarden can generate one for you. Just click on the “Generate” button and a strong, random password will be created.</li>
-<li>Once you’ve filled in the details, click “Save”.</li>
-</ol>
-<h3 id="mcetoc_1i2a0d7ols3">Step 7: Organize Your Vault</h3>
-<p>As you add more items, you might want to organize them into folders. This makes it easier to find specific passwords later on. To create a folder:</p>
-<ol>
-<li>Click on “Folders” in the sidebar.</li>
-<li>Click “Add Folder”.</li>
-<li>Name your folder and click “Save”.</li>
-<li>You can now move items into this folder by editing the item and selecting the folder from the dropdown menu.</li>
-</ol>
-<h3 id="mcetoc_1i2a0d7ols4">Step 8: Install Browser Extensions</h3>
-<p>Bitwarden offers browser extensions for Chrome (ewww), Firefox, Safari, Edge, and more. These extensions allow you to autofill passwords directly from your vault, making logging in to websites a breeze.</p>
-<ol>
-<li>Go back to the Bitwarden download page and select your browser.</li>
-<li>Follow the instructions to add the extension.</li>
-<li>Once installed, log in to the extension with your Bitwarden account.</li>
-</ol>
-<h3 id="mcetoc_1i2a0d7ols5">Step 9: Import Existing Passwords</h3>
-<p>If you’ve been storing passwords in your browser or another password manager, you can import them into Bitwarden. Here’s how:</p>
-<ol>
-<li>Export your passwords from your current manager. This is usually found in the settings or options menu under “Export”.</li>
-<li>In Bitwarden, click on “Tools” and then “Import Data”.</li>
-<li>Select the format of your exported file and upload it to Bitwarden.</li>
-<li>Click “Import” and all your passwords will be added to your vault.</li>
-</ol>
-<h3 id="mcetoc_1i2a0d7ols6">Step 10: Enable Two-Factor Authentication</h3>
-<p>For an extra layer of security, enable two-factor authentication (2FA) on your Bitwarden account.</p>
-<ol>
-<li>Go to “Settings” in your Bitwarden account.</li>
-<li>Click on “Two-step Login”.</li>
-<li>Follow the instructions to set up 2FA using an app like Google Authenticator or Authy.</li>
-</ol>
-<h3 id="mcetoc_1i2a0d7ols7">Step 11: Sync Across Devices</h3>
-<p>Make sure your passwords are available on all your devices. Install Bitwarden on your phone and log in with your account. Your vault will sync automatically, ensuring you have access to your passwords wherever you go.</p>
-<h3 id="mcetoc_1i2a0d7ols8">Step 12: Explore Advanced Features</h3>
-<p>Bitwarden offers many advanced features such as secure notes, password sharing, and encrypted file storage. While these, and other paid offerings, are not at all necessary, you can certainly see if you like what they offer. If Bitwarden is not your cup of tea, I could also recommend <a href="https://proton.me/pass" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Proton Pass</a>.</p>
-<h3 id="mcetoc_1i2a0d7ols9">You Did It!</h3>
-<p>Congratulations! You’ve now set up Bitwarden, and can generate super long, secure passwords that are different for all your websites – and you only need to remember that one MASTER PASSWORD...</p>
-<blockquote>
-<p>Make sure your MASTER PASSWORD is something you will remember easily. Part of the reason Bitwarden is so secure is that they do not know your password. They don’t have access and they can’t send you a link to reset it. You can change the password later, but you will need to know the current password. Your master password cannot be recovered if you forget it! <span style="color: #ba372a;"><strong>So if you forget your MASTER PASSWORD, you’re screwed; you can’t get in, you can’t recover your password.</strong></span> Please make sure you choose a MASTER PASSWORD you will remember. PAY CLOSE ATTENTION TO THIS STEP!</p>
-</blockquote>
-<p>I hope this has been of help!</p>
-<p><strong>Photo Used:</strong> <a href="https://unsplash.com/photos/a-pile-of-keys-sitting-on-top-of-a-table-r8VbpgMS6Uc" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">unsplash.com</a></p>
             ]]>
         </content>
     </entry>
