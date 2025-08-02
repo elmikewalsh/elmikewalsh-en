@@ -3,12 +3,50 @@
     <title>I Write Stuff</title>
     <link href="https://www.elmikewalsh.com/feed.xml" rel="self" />
     <link href="https://www.elmikewalsh.com" />
-    <updated>2025-06-06T13:14:35-04:00</updated>
+    <updated>2025-08-01T21:23:53-04:00</updated>
     <author>
         <name>elmikewalsh</name>
     </author>
     <id>https://www.elmikewalsh.com</id>
 
+    <entry>
+        <title>Email: The Final Countdown</title>
+        <author>
+            <name>elmikewalsh</name>
+        </author>
+        <link href="https://www.elmikewalsh.com/email-the-final-countdown/"/>
+        <id>https://www.elmikewalsh.com/email-the-final-countdown/</id>
+            <category term="Tech"/>
+
+        <updated>2025-06-13T21:11:00-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <h3 id="mcetoc_1j1k55ks27">How I Finally Settled On An Email Provider / System Without Going Insane.</h3>
+<div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1j1k55ks28">How I Got Here</a></li>
+<li><a href="#mcetoc_1j1k55ks29">The Contenders</a></li>
+</ul>
+</div>
+<p class="p3">Ok, this is yet another installment in my journey to set up an email flow that I could be happy with, let go of, and step away from. To just use it.</p>
+<h3 id="mcetoc_1j1k55ks28" class="p3">How I Got Here</h3>
+<p class="p3">This is a continuation of this article, which in itself was an update of this one. So rather than detail again every single provider I reviewed, I will get to the quick here. You can lose yourself (literally) in Reddit reading about each provider. Here’s I’ll list in order my recommendations in descending order, starting with the one I have gone with, and a real quick note on why or why not:</p>
+<h3 id="mcetoc_1j1k55ks29" class="p3">The Contenders</h3>
+<p class="p3"><strong><a href="https://proton.me" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Proton</a></strong> - I went with this one, but I went all in. Visionary.<span class="Apple-converted-space">  </span>Since I hopped back on (for the third time) they have launched Lumo, an AI app, and an Authenticator app. So new stuff is coming. Being Visionary means you get it all. Yay!</p>
+<p class="p3"><strong><a href="https://tuta.com" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Tuta</a></strong> - I really really looked at this one. If it wasn’t for Proton, I would go for this. It came down to the design / UI (and the fact I had to sell a family on it, so it was for more than just me. But if you want just email at a good price, go for this)</p>
+<p class="p3"><strong><a href="https://www.icloud.com/mail" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">iCloud Mail</a></strong> - If you’re in the Apple ecosystem, go for it, if you don’t really care about features and you just want a domain email (or two, or three) to set up quick.</p>
+<p class="p3"><strong><a href="https://www.fastmail.com" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Fastmail</a></strong> - Tough call between Fastmail and Infomaniak in this spot. I went with Fastmail because it is easy to set up, tons of features, pretty good design. But their privacy is really more the style of “trust us, we respect your privacy” than anything technical about it.</p>
+<p class="p3"><strong><a href="https://www.infomaniak.com" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Infomaniak</a></strong> - I really wanted to like this one. Really really wanted to. Great pricing, generous offers. I even managed to get it set up from Chile. But support sucks. Sucks, sucks, sucks. And set up is NOT intuitive, even if you play with DNS and MX records on a daily basis.</p>
+<p class="p3"><strong><a href="https://mxroute.com" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">MX Route</a></strong> - If you want domain email, it’s an option. Hate the Crossbox app provided for mobile email. Google Material Design.</p>
+<p class="p3"><strong><a href="http://Postale.io" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Postale.io</a></strong> - This was my first experience with domain email once I woke up from the Gmail nap years ago. It’s solid and well-priced.</p>
+<p class="p3"><strong><a href="https://www.purelymail.com" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Purelymail</a></strong> - If you REALLY want to pay very little for lots of domain email features, you are technically inclined, and don’t care AT ALL about beautiful user interfaces, this is the way to go.</p>
+<p class="p3">I can totally recommend either of the first two. I signed up for a 14 day trial with Tuta and had no problem requesting a refund, despite what Reddit users say. Sometimes you just need to stop, read the information and instructions, and follow them.</p>
+<p class="p3">Take this for what it’s worth. Hope it helps!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>How To Choose An Email Service Without Going Insane</title>
         <author>
@@ -315,53 +353,6 @@
 <p class="p3">After an eternity (or so it seemed), the internet came back. My router lit up like a Christmas tree, and I was back online. But the victory was bittersweet. There’s no immediate rush to watch all the Netflix I missed or <a href="https://medium.com/@elmikewalsh/list/in-english-baf770234cb3" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">binge-read Medium articles</a>. Instead, I started reflecting on how we got here—how we built a digital world so bloated with content that even 4G can feel sluggish now (or, at least, that’s what I would like you to think. In reality, it was a frantic rush to make 2 weeks of backlogged projects go away).</p>
 <p class="p3">It’s funny, isn’t it? We used to get by with simpler, faster websites. Now we need insane speeds just to keep up with the junk we’ve crammed into them. So if you’re out there still dealing with terrible load times and sluggish sites, I feel for ya. But don’t worry - you’re not missing anything other than crap being pushed and loaded faster and faster.</p>
 <p class="p3"><strong>Photo Used:</strong> <a href="https://pixabay.com/photos/city-disaster-end-of-the-world-fire-2444516/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">pixabay.com</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Become a Millionaire on Medium (How I Made $0.04 In One Month!)</title>
-        <author>
-            <name>elmikewalsh</name>
-        </author>
-        <link href="https://www.elmikewalsh.com/becom-a-millionaire-on-medium-how-i-made-004-in-one-month/"/>
-        <id>https://www.elmikewalsh.com/becom-a-millionaire-on-medium-how-i-made-004-in-one-month/</id>
-        <media:content url="https://www.elmikewalsh.com/media/posts/67/how-i-made-004.webp" medium="image" />
-            <category term="Humor"/>
-
-        <updated>2024-10-16T09:30:00-03:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.elmikewalsh.com/media/posts/67/how-i-made-004.webp" class="type:primaryImage" alt="Image of tiny tree growing out of pennies." /></p>
-                <div class="post__toc">
-<h3>Table of Contents</h3>
-<ul>
-<li><a href="#mcetoc_1iaq3dh5t5m">Ignorance Writes Itself</a></li>
-<li><a href="#mcetoc_1iaq3dh5t5n">Find Your Truly Unique Nobody-Is-Doing-This Niche</a></li>
-<li><a href="#mcetoc_1iaq3dh5t5o">Neurotic Stat Tracking</a></li>
-<li><a href="#mcetoc_1iaq3dh5t5p">Show Me The Money!</a></li>
-<li><a href="#mcetoc_1iaq3dh5t5q">The Lessons Learned</a></li>
-</ul>
-</div>
-<p class="p1">Ah, Medium. The land of dreams, where writers come to share their deepest thoughts and worst takes on minimalism. Some are here for community, others for the joy of writing, but most of us came for one thing: cash. Via that glorious <a href="https://medium.com/partner-program" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Medium Partner Program</a> (MPP) money, which we were told would be flowing our way just for sharing our brilliant ideas. The digital gold rush.</p>
-<p class="p1">I’m here to tell you how I turned that dream into reality. I’ve done it. I made $0.04 in one month on Medium. You’re probably asking yourself, “How can I achieve this level of success?” Don’t worry. I’ve got you covered.</p>
-<h3 id="mcetoc_1iaq3dh5t5m" class="p1">Ignorance Writes Itself</h3>
-<p class="p1">Everyone knows that expertise is overrated. On Medium, it’s all about pretending to know stuff. The key is confidence. The trick is to sprinkle in buzzwords like “mindfulness,” “side hustle,” and “growth mindset.” If you really want to maximize earnings, toss in some crypto talk, even if your only knowledge of cryptocurrency is that it's not a physical coin.</p>
-<p class="p1">After initially resisting, on the principle that hard work and effort pay off, I switched to this method, convinced that my in-depth “advice” on how to maximize your website development by following my convoluted <a href="https://www.elmikewalsh.com/wordpress-2024-static-website-generator/">15-step process to output your WordPress website as a static site</a>. Spoiler: it didn’t.</p>
-<h3 id="mcetoc_1iaq3dh5t5n" class="p1">Find Your Truly Unique Nobody-Is-Doing-This Niche</h3>
-<p class="p1">I thought I’d stand out by finding the perfect niche. After all, Medium’s full of articles on digital nomads, minimalism and making one digital product and selling 325 variations for $50k a month, so I decided to niche down to something <i>truly unique</i>. I wrote about <a href="https://www.elmikewalsh.com/the-art-of-a-good-password/">how to create a good password</a>. A masterpiece. Naturally, I expected the algorithm to throw my post to the top of the platform.</p>
-<p class="p1">What I discovered is that Medium loves niches... if your niche happens to be crypto, minimalism, or tech startups. A heartfelt in-depth guide on how to make a good password? Not so much.</p>
-<h3 id="mcetoc_1iaq3dh5t5o" class="p1">Neurotic Stat Tracking</h3>
-<p class="p1">This is the real joy of Medium. It’s like checking your social media for likes—on steroids. The moment you hit “publish,” you’ll find yourself obsessively refreshing the stats page. At first, you’ll be optimistic. You’ll picture the hundreds of views piling up, the comments flooding in, the claps accumulating. But instead, you’ll see numbers that look more like the cost of a pack of gum.</p>
-<p class="p1">After a week of watching my stats like a hawk, my first milestone arrived. A whopping <strong>two</strong> cents. At that point, I began calculating how long it would take me to buy an actual cup of coffee with my Medium earnings. (It’s a very long time.)</p>
-<h3 id="mcetoc_1iaq3dh5t5p" class="p1">Show Me The Money!</h3>
-<p class="p1">Then it happened. After weeks of pouring my heart and soul into my content, the moment of truth arrived. I checked my stats one last time for the month and saw it: <strong>$0.04</strong>. I made it. The big leagues.</p>
-<figure class="post__image post__image--center"><img  src="https://www.elmikewalsh.com/media/posts/67/earnings-image.jpg" alt="Screenshot of my $0.04 earnings." width="728" height="562" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://www.elmikewalsh.com/media/posts/67/responsive/earnings-image-xs.webp 640w ,https://www.elmikewalsh.com/media/posts/67/responsive/earnings-image-sm.webp 768w ,https://www.elmikewalsh.com/media/posts/67/responsive/earnings-image-md.webp 1024w ,https://www.elmikewalsh.com/media/posts/67/responsive/earnings-image-lg.webp 1366w ,https://www.elmikewalsh.com/media/posts/67/responsive/earnings-image-xl.webp 1600w ,https://www.elmikewalsh.com/media/posts/67/responsive/earnings-image-2xl.webp 1920w"></figure>
-<p class="p1">It was time to celebrate. I poured myself a glass of tap water, sat back, and basked in the glow of my monumental success. Could I afford a yacht? No. Could I afford an iPhone? Nope. But I was officially a paid writer. Technically.</p>
-<h3 id="mcetoc_1iaq3dh5t5q" class="p1">The Lessons Learned</h3>
-<p class="p1">Making money on Medium is, well, possible. Technically. But it’s not about the money (good thing, right?). It’s about the thrill of putting your thoughts into the world and seeing them resonate with, let’s be honest, probably just your mom. That $0.04 is a symbol of potential. The potential to someday—perhaps many, may, may, many years from now—afford a pack of gum.</p>
-<p class="p1">So, if you're ready to become a Medium millionaire, remember this: it's not about the payout. It’s about the journey of seeing that stat page inch forward. Someday, with enough perseverance, you might just be able to buy that yacht. Or at least a cup of coffee. Full steam ahead!</p>
-<p class="p1"><strong>Photo Used:</strong> <a href="https://unsplash.com/photos/green-plant-on-brown-round-coins-lZ_4nPFKcV8" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Unsplash.com</a></p>
             ]]>
         </content>
     </entry>
